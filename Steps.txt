@@ -1,0 +1,8 @@
+Step 1. Parse document and remove hyperlinks and punctuations
+step 2. Create a dictionary, store document id along with list containing words in that document
+Step 3. Simultaneously add words encountered to a set
+Step 4. Convert set to a list
+step 5. Create another dictionary to store all the words and thier term frequency
+Step 6. Create another dictionary to store all the words and the document frequency
+Step 7. Create dictionary to store words and associate an index with it (Will be used to create a vector)
+Step 8. Create dictionary to store documents and associate an index with it (Will be used to create a vector)
