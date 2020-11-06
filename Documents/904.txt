@@ -1,0 +1,189 @@
+
+Aluminium
+
+Aluminium or aluminum (in North American English) is a chemical element in the boron group with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic, ductile metal. Aluminium is the third most abundant element in the Earth's crust (after oxygen and silicon) and its most abundant metal. Aluminium makes up about 8% of the crust by mass, though it is less common in the mantle below. Aluminium metal is so chemically reactive that native specimens are rare and limited to extreme reducing environments. Instead, it is found combined in over 270 different minerals. The chief ore of aluminium is bauxite.
+
+Aluminium is remarkable for the metal's low density and its ability to resist corrosion through the phenomenon of passivation. Aluminium and its alloys are vital to the aerospace industry and important in transportation and structures, such as building facades and window frames. The oxides and sulfates are the most useful compounds of aluminium.
+
+Despite its prevalence in the environment, no known form of life uses aluminium salts metabolically, but aluminium is well tolerated by plants and animals. Because of their abundance, the potential for a biological role is of continuing interest and studies continue.
+
+Aluminium is a relatively soft, durable, lightweight, ductile, and malleable metal with appearance ranging from silvery to dull gray, depending on the surface roughness. It is nonmagnetic and does not easily ignite. A fresh film of aluminium serves as a good reflector (approximately 92%) of visible light and an excellent reflector (as much as 98%) of medium and far infrared radiation. The yield strength of pure aluminium is 7–11 MPa, while aluminium alloys have yield strengths ranging from 200 MPa to 600 MPa. Aluminium has about one-third the density and stiffness of steel. It is easily machined, cast, drawn and extruded.
+
+Aluminium atoms are arranged in a face-centered cubic (fcc) structure. Aluminium has a stacking-fault energy of approximately 200 mJ/m.
+
+Aluminium is a good thermal and electrical conductor, having 59% the conductivity of copper, both thermal and electrical, while having only 30% of copper's density. Aluminium is capable of superconductivity, with a superconducting critical temperature of 1.2 kelvin and a critical magnetic field of about 100 gauss (10 milliteslas).
+
+Corrosion resistance can be excellent because a thin surface layer of aluminium oxide forms when the bare metal is exposed to air, effectively preventing further oxidation, in a process termed passivation. The strongest aluminium alloys are less corrosion resistant due to galvanic reactions with alloyed copper. This corrosion resistance is greatly reduced by aqueous salts, particularly in the presence of dissimilar metals.
+
+In highly acidic solutions, aluminium reacts with water to form hydrogen, and in highly alkaline ones to form aluminates— protective passivation under these conditions is negligible. Primarily because it is corroded by dissolved chlorides, such as common sodium chloride, household plumbing is never made from aluminium.
+
+However, because of its general resistance to corrosion, aluminium is one of the few metals that retains silvery reflectance in finely powdered form, making it an important component of silver-colored paints. Aluminium mirror finish has the highest reflectance of any metal in the 200–400 nm (UV) and the 3,000–10,000 nm (far IR) regions; in the 400–700 nm visible range it is slightly outperformed by tin and silver and in the 700–3000 nm (near IR) by silver, gold, and copper.
+
+Aluminium is oxidized by water at temperatures below 280 °C to produce hydrogen, aluminium hydroxide and heat:
+This conversion is of interest for the production of hydrogen. However, commercial application of this fact has challenges in circumventing the passivating oxide layer, which inhibits the reaction, and in storing the energy required to regenerate the aluminium metal.
+
+Aluminium has many known isotopes, with mass numbers range from 21 to 42; however, only Al (stable) and Al (radioactive, t = 7.2×10 years) occur naturally. Al has a natural abundance above 99.9%. Al is produced from argon in the atmosphere by spallation caused by cosmic-ray protons. Aluminium isotopes are useful in dating marine sediments, manganese nodules, glacial ice, quartz in rock exposures, and meteorites. The ratio of Al to Be has been used to study transport, deposition, sediment storage, burial times, and erosion on 10 to 10 year time scales. Cosmogenic Al was first applied in studies of the Moon and meteorites. Meteoroid fragments, after departure from their parent bodies, are exposed to intense cosmic-ray bombardment during their travel through space, causing substantial Al production. After falling to Earth, atmospheric shielding drastically reduces Al production, and its decay can then be used to determine the meteorite's terrestrial age. Meteorite research has also shown that Al was relatively abundant at the time of formation of our planetary system. Most meteorite scientists believe that the energy released by the decay of Al was responsible for the melting and differentiation of some asteroids after their formation 4.55 billion years ago.
+
+Stable aluminium is created when hydrogen fuses with magnesium, either in large stars or in supernovae. It is estimated to be the 14th most common element in the Universe, by mass-fraction. However, among the elements that have odd atomic numbers, aluminium is the third most abundant by mass fraction, after hydrogen and nitrogen.
+
+In the Earth's crust, aluminium is the most abundant (8.3% by mass) metallic element and the third most abundant of all elements (after oxygen and silicon). The Earth's crust has a greater abundance of aluminium than the rest of the planet, primarily in aluminium silicates. In the Earths mantle, which is only 2% aluminium by mass, these aluminium silicate minerals are largely replaced by silica and magnesium oxides. Overall, the Earth is about 1.4% aluminium by mass (eighth in abundance by mass). Aluminium occurs in greater proportion in the Earth than in the Solar system and Universe because the more common elements (hydrogen, helium, neon, nitrogen, carbon as hydrocarbon) are volatile at Earth's proximity to the Sun and large quantities of those were lost.
+
+Because of its strong affinity for oxygen, aluminium is almost never found in the elemental state; instead it is found in oxides or silicates. Feldspars, the most common group of minerals in the Earth's crust, are aluminosilicates. Native aluminium metal can only be found as a minor phase in low oxygen fugacity environments, such as the interiors of certain volcanoes. Native aluminium has been reported in cold seeps in the northeastern continental slope of the South China Sea. Chen "et al." (2011) propose the theory that these deposits resulted from bacterial reduction of tetrahydroxoaluminate Al(OH).
+
+Aluminium also occurs in the minerals beryl, cryolite, garnet, spinel, and turquoise. Impurities in AlO, such as chromium and iron, yield the gemstones ruby and sapphire, respectively.
+
+Although aluminium is a common and widespread element, not all aluminium minerals are economically viable sources of the metal. Almost all metallic aluminium is produced from the ore bauxite (AlO(OH)). Bauxite occurs as a weathering product of low iron and silica bedrock in tropical climatic conditions. Bauxite is mined from large deposits in Australia, Brazil, Guinea, and Jamaica; it is also mined from lesser deposits in China, India, Indonesia, Russia, and Suriname.
+
+Bauxite is converted to aluminium oxide (AlO) by the Bayer process. Relevant chemical equations are:
+The intermediate, sodium aluminate, with the simplified formula NaAlO, is soluble in strongly alkaline water, and the other components of the ore are not. Depending on the quality of the bauxite ore, twice as much waste ("Bauxite tailings") as alumina is generated.
+
+The conversion of alumina to aluminium metal is achieved by the Hall–Héroult process. In this energy-intensive process, a solution of alumina in a molten () mixture of cryolite (NaAlF) with calcium fluoride is electrolyzed to produce metallic aluminium:
+The liquid aluminium metal sinks to the bottom of the solution and is tapped off, and usually cast into large blocks called aluminium billets for further processing. Oxygen is produced at the anode:
+The carbon anode is consumed by reaction with oxygen to form carbon dioxide gas, with a small quantity of fluoride gases. In modern smelters, the gas is filtered through alumina to remove fluorine compounds and return aluminium fluoride to the electrolytic cells. The anode this reduction cell must be replaced regularly, since it is consumed in the process. The cathode is also eroded, mainly by electrochemical processes and liquid metal movement induced by intense electrolytic currents. After five to ten years, depending on the current used in the electrolysis, a cell must be rebuilt because of cathode wear.
+
+Aluminium electrolysis with the Hall–Héroult process consumes a lot of energy. The worldwide average specific energy consumption is approximately 15±0.5 kilowatt-hours per kilogram of aluminium produced (52 to 56 MJ/kg). Some smelters achieve approximately 12.8 kW·h/kg (46.1 MJ/kg). (Compare this to the heat of reaction, 31 MJ/kg, and the Gibbs free energy of reaction, 29 MJ/kg.) Minimizing line currents for older technologies are typically 100 to 200 kiloamperes; state-of-the-art smelters operate at about 350 kA. Trials have been reported with 500 kA cells.
+
+The Hall–Heroult process produces aluminium with a purity of above 99%. Further purification can be done by the Hoopes process. This process involves the electrolysis of molten aluminium with a sodium, barium and aluminium fluoride electrolyte. The resulting aluminium has a purity of 99.99%.
+
+Electric power represents about 20% to 40% of the cost of producing aluminium, depending on the location of the smelter. Aluminium production consumes roughly 5% of electricity generated in the U.S. Aluminium producers tend to locate smelters in places where electric power is both plentiful and inexpensive—such as the United Arab Emirates with its large natural gas supplies, and Iceland and Norway with energy generated from renewable sources. The world's largest smelters of alumina are located in the People's Republic of China, Russia and the provinces of Quebec and British Columbia in Canada.
+In 2005, the People's Republic of China was the top producer of aluminium with almost a one-fifth world share, followed by Russia, Canada, and the US, reports the British Geological Survey.
+
+Over the last 50 years, Australia has become the world's top producer of bauxite ore and a major producer and exporter of alumina (before being overtaken by China in 2007). Australia produced 77 million tonnes of bauxite in 2013. The Australian deposits have some refining problems, some being high in silica, but have the advantage of being shallow and relatively easy to mine.
+
+The high energy consumption of Hall–Héroult process motivated the development of the electrolytic process based on aluminium chloride. The pilot plant with 6500 tons/year output was started in 1976 by Alcoa. The plant offered two advantages: (i) energy requirements were 40% less than plants using the Hall–Héroult process, and (ii) the more accessible kaolinite (instead of bauxite and cryolite) was used for feedstock. Nonetheless, the pilot plant was shut down. The reasons for failure were the cost of aluminium chloride, general technology maturity problems, and leakage of the trace amounts of extremely toxic polychlorinated biphenyl compounds.
+
+Aluminium chloride process can also be used for the co-production of titanium, depending on titanium contents in kaolinite.
+
+The non-electrolytic "aluminium carbothermic" process of aluminium production would theoretically be cheaper and consume less energy. However, it has been in the experimental phase for decades because the high operating temperature creates difficulties in material technology that have not yet been solved.
+
+Aluminium is theoretically 100% recyclable without any loss of its natural qualities. According to the International Resource Panel's Metal Stocks in Society report, the global per capita stock of aluminium in use in society (i.e. in cars, buildings, electronics etc.) is . Much of this is in more-developed countries ( per capita) rather than less-developed countries ( per capita). Knowing the per capita stocks and their approximate lifespans is important for planning recycling.
+
+Recovery of the metal through recycling has become an important task of the aluminium industry. Recycling was a low-profile activity until the late 1960s, when the growing use of aluminium beverage cans brought it to public awareness.
+
+Recycling involves melting the scrap, a process that requires only 5% of the energy used to produce aluminium from ore, though a significant part (up to 15% of the input material) is lost as dross (ash-like oxide). An aluminium stack melter produces significantly less dross, with values reported below 1%. The dross can undergo a further process to extract aluminium.
+
+Europe has achieved high rates of aluminium recycling ranging from 42% of beverage cans, 85% of construction materials, and 95% of transport vehicles.
+
+Recycled aluminium is known as secondary aluminium, but maintains the same physical properties as primary aluminium. Secondary aluminium is produced in a wide range of formats and is employed in 80% of alloy injections. Another important use is extrusion.
+
+White dross from primary aluminium production and from secondary recycling operations still contains useful quantities of aluminium that can be extracted industrially. The process produces aluminium billets, together with a highly complex waste material. This waste is difficult to manage. It reacts with water, releasing a mixture of gases (including, among others, hydrogen, acetylene, and ammonia), which spontaneously ignites on contact with air; contact with damp air results in the release of copious quantities of ammonia gas. Despite these difficulties, the waste is used as a filler in asphalt and concrete.
+
+The vast majority of compounds, including all Al-containing minerals and all commercially significant aluminium compounds, feature aluminium in the oxidation state 3+. The coordination number of such compounds varies, but generally Al is six-coordinate or tetracoordinate. Almost all compounds of aluminium(III) are colorless.
+
+All four trihalides are well known. Unlike the structures of the three heavier trihalides, aluminium fluoride (AlF) features six-coordinate Al. The octahedral coordination environment for AlF is related to the compactness of the fluoride ion, six of which can fit around the small Al center. AlF sublimes (with cracking) at . With heavier halides, the coordination numbers are lower. The other trihalides are dimeric or polymeric with tetrahedral Al centers. These materials are prepared by treating aluminium metal with the halogen, although other methods exist. Acidification of the oxides or hydroxides affords hydrates. In aqueous solution, the halides often form mixtures, generally containing six-coordinate Al centers that feature both halide and aquo ligands. When aluminium and fluoride are together in aqueous solution, they readily form complex ions such as , , and . In the case of chloride, polyaluminium clusters are formed such as [AlO(OH)(HO)].
+
+Aluminium forms one stable oxide, known by its mineral name corundum. Sapphire and ruby are impure corundum contaminated with trace amounts of other metals. The two oxide-hydroxides, AlO(OH), are boehmite and diaspore. There are three trihydroxides: bayerite, gibbsite, and nordstrandite, which differ in their crystalline structure (polymorphs). Most are produced from ores by a variety of wet processes using acid and base. Heating the hydroxides leads to formation of corundum. These materials are of central importance to the production of aluminium and are themselves extremely useful.
+
+Aluminium carbide (AlC) is made by heating a mixture of the elements above . The pale yellow crystals consist of tetrahedral aluminium centers. It reacts with water or dilute acids to give methane. The acetylide, Al(C), is made by passing acetylene over heated aluminium.
+
+Aluminium nitride (AlN) is the only nitride known for aluminium. Unlike the oxides, it features tetrahedral Al centers. It can be made from the elements at . It is air-stable material with a usefully high thermal conductivity. Aluminium phosphide (AlP) is made similarly; it hydrolyses to give phosphine:
+
+A variety of compounds of empirical formula AlR and AlRCl exist. These species usually feature tetrahedral Al centers formed by dimerization with some R or Cl bridging between both Al atoms, e.g. "trimethylaluminium" has the formula Al(CH) (see figure). With large organic groups, triorganoaluminium compounds exist as three-coordinate monomers, such as triisobutylaluminium. Such compounds are widely used in industrial chemistry, despite the fact that they are often highly pyrophoric. Few analogues exist between organoaluminium and organoboron compounds other than large organic groups.
+
+The important aluminium hydride is lithium aluminium hydride (LiAlH), which is used in as a reducing agent in organic chemistry. It can be produced from lithium hydride and aluminium trichloride:
+
+Several useful derivatives of LiAlH are known, e.g. sodium bis(2-methoxyethoxy)dihydridoaluminate. The simplest hydride, aluminium hydride or alane, remains a laboratory curiosity. It is a polymer with the formula (AlH), in contrast to the corresponding boron hydride that is a dimer with the formula (BH).
+
+Although the great majority of aluminium compounds feature Al centers, compounds with lower oxidation states are known and sometime of significance as precursors to the Al species.
+
+AlF, AlCl and AlBr exist in the gaseous phase when the trihalide is heated with aluminium. The composition is unstable at room temperature, converting to triiodide:
+
+A stable derivative of aluminium monoiodide is the cyclic adduct formed with triethylamine, . Also of theoretical interest but only of fleeting existence are AlO and AlS. AlO is made by heating the normal oxide, AlO, with silicon at in a vacuum. Such materials quickly disproportionate to the starting materials.
+
+Very simple Al(II) compounds are invoked or observed in the reactions of Al metal with oxidants. For example, aluminium monoxide, AlO, has been detected in the gas phase after explosion and in stellar absorption spectra. More thoroughly investigated are compounds of the formula RAl which contain an Al-Al bond and where R is a large organic ligand.
+
+The presence of aluminium can be detected in qualitative analysis using aluminon.
+
+Aluminium is the most widely used non-ferrous metal. Global production of aluminium in 2005 was 31.9 million tonnes. It exceeded that of any other metal except iron (837.5 million tonnes). Forecast for 2012 was 42–45 million tonnes, driven by rising Chinese output.
+
+Aluminium is almost always alloyed, which markedly improves its mechanical properties, especially when tempered. For example, the common aluminium foils and beverage cans are alloys of 92% to 99% aluminium. The main alloying agents are copper, zinc, magnesium, manganese, and silicon (e.g., duralumin) with the levels of other metals in a few percent by weight.
+
+Some of the many uses for aluminium metal are in:
+
+Aluminium is usually alloyed – it is used as pure metal only when corrosion resistance and/or workability is more important than strength or hardness. The strength of aluminium alloys is abruptly increased with small additions of scandium, zirconium, or hafnium. A thin layer of aluminium can be deposited onto a flat surface by physical vapor deposition or (very infrequently) chemical vapor deposition or other chemical means to form optical coatings and mirrors.
+
+Because aluminium is abundant and most of its derivatives exhibit low toxicity, the compounds of aluminium enjoy wide and sometimes large-scale applications.
+
+Aluminium oxide (AlO) and the associated oxy-hydroxides and trihydroxides are produced or extracted from minerals on a large scale. The great majority of this material is converted to metallic aluminium. In 2013, about 10% of the domestic shipments in the United States were used for other applications. One major use is to absorb water where it is viewed as a contaminant or impurity. Alumina is used to remove water from hydrocarbons in preparation for subsequent processes that would be poisoned by moisture.
+
+Aluminium oxides are common catalysts for industrial processes; e.g. the Claus process to convert hydrogen sulfide to sulfur in refineries and to alkylate amines. Many industrial catalysts are "supported" by alumina, meaning that the expensive catalyst material (e.g., platinum) is dispersed over a surface of the inert alumina.
+
+Being a very hard material (Mohs hardness 9), alumina is widely used as an abrasive; being extraordinarily chemically inert, it is useful in highly reactive environments such as high pressure sodium lamps.
+
+Several sulfates of aluminium have industrial and commercial application. Aluminium sulfate (Al(SO)·(HO)) is produced on the annual scale of several billions of kilograms. About half of the production is consumed in water treatment. The next major application is in the manufacture of paper. It is also used as a mordant, in fire extinguishers, in fireproofing, as a food additive (E number E173), and in leather tanning. Aluminium ammonium sulfate, which is also called ammonium alum, (NH)Al(SO)·12HO, is used as a mordant and in leather tanning, as is aluminium potassium sulfate ([Al(K)](SO))·(HO). The consumption of both alums is declining.
+
+Aluminium chloride (AlCl) is used in petroleum refining and in the production of synthetic rubber and polymers. Although it has a similar name, aluminium chlorohydrate has fewer and very different applications, particularly as a colloidal agent in water purification and an antiperspirant. It is an intermediate in the production of aluminium metal.
+
+Many aluminium compounds have niche applications:
+
+Aluminium alloys with a wide range of properties are used in engineering structures. Alloy systems are classified by a number system (ANSI) or by names indicating their main alloying constituents (DIN and ISO).
+
+The strength and durability of aluminium alloys vary widely, not only as a result of the components of the specific alloy, but also as a result of heat treatments and manufacturing processes. A lack of knowledge of these aspects has from time to time led to improperly designed structures and gained aluminium a bad reputation.
+
+One important structural limitation of aluminium alloys is their fatigue strength. Unlike steels, aluminium alloys have no well-defined fatigue limit, meaning that fatigue failure eventually occurs, under even very small cyclic loadings. Engineers must assess applications and design for a fixed and finite life of the structure, rather than infinite life.
+
+Another important property of aluminium alloys is sensitivity to heat. Workshop procedures are complicated by the fact that aluminium, unlike steel, melts without first glowing red. Manual blow torch operations require additional skill and experience. Aluminium alloys, like all structural alloys, are subject to internal stresses after heat operations such as welding and casting. The lower melting points of aluminium alloys make them more susceptible to distortions from thermally induced stress relief. Stress can be relieved and controlled during manufacturing by heat-treating the parts in an oven, followed by gradual cooling—in effect annealing the stresses.
+
+The low melting point of aluminium alloys has not precluded use in rocketry, even in combustion chambers where gases can reach 3500 K. The Agena upper stage engine used regeneratively cooled aluminium in some parts of the nozzle, including the thermally critical throat region.
+
+Another alloy of some value is aluminium bronze (Cu-Al alloy).
+
+Ancient Greeks and Romans used aluminium salts as dyeing mordants and as astringents for dressing wounds; alum is still used as a styptic.
+
+In 1782, Guyton de Morveau suggested calling the "base" of (i.e., the metallic element in) alum "alumine." In 1808, Humphry Davy identified the existence of a metal base of alum, which he at first termed "alumium" and later "aluminum" (see etymology section, below).
+
+The metal was first produced in 1825 in an impure form by Danish physicist and chemist Hans Christian Ørsted. He reacted anhydrous aluminium chloride with potassium amalgam, yielding a lump of metal looking similar to tin. Friedrich Wöhler was aware of these experiments and cited them, but after repeating Ørsted's experiments, he concluded that this metal was pure potassium. He conducted a similar experiment in 1827 by mixing anhydrous aluminium chloride with potassium and produced aluminium. Wöhler is therefore generally credited with isolating aluminium (Latin "alumen", alum). Further, Pierre Berthier discovered aluminium in bauxite ore. Henri Etienne Sainte-Claire Deville improved Wöhler's method in 1846. As described in his 1859 book, aluminium trichloride could be reduced by sodium, which was more convenient and less expensive than potassium, which Wöhler had used. 
+In the mid-1880s, aluminium metal was exceedingly difficult to produce, which made pure aluminium more valuable than gold. So celebrated was the metal that bars of aluminium were exhibited at the Exposition Universelle of 1855. Napoleon III of France is reputed to have held a banquet where the most honored guests were given aluminium utensils, while the others made do with gold.
+
+Aluminium was selected as the material to use for the capstone of the Washington Monument in 1884, a time when one ounce (30 grams) cost the daily wage of a common worker on the project (in 1884 about $1 for 10 hours of labor; today, a construction worker in the US working on such a project might earn $25–$35 per hour and therefore around $300 in an equivalent single 10-hour day). The capstone, which was set in place on 6 December 1884 in an elaborate dedication ceremony, was the largest single piece of aluminium cast at the time.
+
+The Cowles companies supplied aluminium alloy in quantity in the United States and England using smelters like the furnace of Carl Wilhelm Siemens by 1886.
+
+Charles Martin Hall of Ohio in the U.S. and Paul Héroult of France independently developed the Hall-Héroult electrolytic process that facilitated large-scale production of metallic aluminium. This process remains in use today. In 1888, with the financial backing of Alfred E. Hunt, the Pittsburgh Reduction Company started; today it is known as Alcoa. Héroult's process was in production by 1889 in Switzerland at Aluminium Industrie, now Alcan, and at British Aluminium, now Luxfer Group and Alcoa, by 1896 in Scotland.
+
+By 1895, the metal was being used as a building material as far away as Sydney, Australia in the dome of the Chief Secretary's Building.
+
+With the explosive expansion of the airplane industry during World War I (1914–1917), major governments demanded large shipments of aluminium for light, strong airframes. They often subsidized factories and the necessary electrical supply systems.
+
+Many navies have used an aluminium superstructure for their vessels; the 1975 fire aboard USS "Belknap" that gutted her aluminium superstructure, as well as observation of battle damage to British ships during the Falklands War, led to many navies switching to all steel superstructures.
+
+Aluminium wire was once widely used for domestic electrical wiring in the United States, and a number of fires resulted from creep and corrosion-induced failures at junctions and terminations; additional and preventable factors in the failures have been identified. Aluminium is still used in electrical services with specially designed wire termination hardware.
+
+The various names all derive from its elemental presence in alum. The word comes into English from Old French, from "alumen", a Latin word meaning "bitter salt".
+
+Two variants of the name are in current use: "aluminium" () and "aluminum" (). There is also an obsolete variant "alumium". The International Union of Pure and Applied Chemistry (IUPAC) adopted "aluminium" as the standard international name for the element in 1990 but, three years later, recognized "aluminum" as an acceptable variant. The IUPAC periodic table now includes both spellings. IUPAC internal publications use the two spelling with nearly equal frequency.
+
+Most countries use the ending "-ium" for "aluminium". In the United States and Canada, the ending "-um" predominates. The Canadian Oxford Dictionary prefers "aluminum", whereas the Australian Macquarie Dictionary prefers "aluminium". In 1926, the American Chemical Society officially decided to use "aluminum" in its publications; American dictionaries typically label the spelling "aluminium" as "chiefly British". The earliest citation given in the Oxford English Dictionary for any word used as a name for this element is "alumium", which British chemist and inventor Humphry Davy employed in 1808 for the metal he was trying to isolate electrolytically from the mineral "alumina". The citation is from the journal "Philosophical Transactions of the Royal Society of London": "Had I been so fortunate as to have obtained more certain evidences on this subject, and to have procured the metallic substances I was in search of, I should have proposed for them the names of silicium, alumium, zirconium, and glucium."
+
+Davy settled on "aluminum" by the time he published his 1812 book "Chemical Philosophy": "This substance appears to contain a peculiar metal, but as yet Aluminum has not been obtained in a perfectly free state, though alloys of it with other metalline substances have been procured sufficiently distinct to indicate the probable nature of alumina." But the same year, an anonymous contributor to the "Quarterly Review," a British political-literary journal, in a review of Davy's book, objected to "aluminum" and proposed the name "aluminium", "for so we shall take the liberty of writing the word, in preference to aluminum, which has a less classical sound."
+
+The "-ium" suffix followed the precedent set in other newly discovered elements of the time: potassium, sodium, magnesium, calcium, and strontium (all of which Davy isolated himself). Nevertheless, element names ending in "-um" were not unknown at the time; for example, platinum (known to Europeans since the 16th century), molybdenum (discovered in 1778), and tantalum (discovered in 1802). The "-um" suffix is consistent with the universal spelling alumina for the oxide (as opposed to aluminia), as lanthana is the oxide of lanthanum, and magnesia, ceria, and thoria are the oxides of magnesium, cerium, and thorium respectively.
+
+The "aluminum" spelling is used in the Webster's Dictionary of 1828. In his advertising handbill for his new electrolytic method of producing the metal in 1892, Charles Martin Hall used the "-um" spelling, despite his constant use of the "-ium" spelling in all the patents he filed between 1886 and 1903. Hall's domination of production of the metal ensured that "aluminum" became the standard English spelling in North America.
+
+Despite its widespread occurrence in the Earth crust, aluminium has no known function in biology. Aluminium salts are remarkably nontoxic, aluminium sulfate having an LD of 6207 mg/kg (oral, mouse), which corresponds to 500 grams for an person. The extremely low acute toxicity notwithstanding, the health effects of aluminium are of interest in view of the widespread occurrence of the element in the environment and in commerce.
+
+In very high doses, aluminium is associated with altered function of the blood–brain barrier. A small percentage of people are allergic to aluminium and experience contact dermatitis, digestive disorders, vomiting or other symptoms upon contact or ingestion of products containing aluminium, such as antiperspirants and antacids. In those without allergies, aluminium is not as toxic as heavy metals, but there is evidence of some toxicity if it is consumed in amounts greater than 40 mg/day per kg of body mass. The use of aluminium cookware has not been shown to lead to aluminium toxicity in general, however excessive consumption of antacids containing aluminium compounds and excessive use of aluminium-containing antiperspirants provide more significant exposure levels. Consumption of acidic foods or liquids with aluminium enhances aluminium absorption, and maltol has been shown to increase the accumulation of aluminium in nerve and bone tissues. Aluminium increases estrogen-related gene expression in human breast cancer cells cultured in the laboratory. The estrogen-like effects of these salts have led to their classification as metalloestrogens.
+
+There is little evidence that aluminium in antiperspirants causes skin irritation. Nonetheless, its occurrence in antiperspirants, dyes (such as aluminium lake), and food additives has caused concern. Although there is little evidence that normal exposure to aluminium presents a risk to healthy adults, some studies point to risks associated with increased exposure to the metal. Aluminium in food may be absorbed more than aluminium from water. It is classified as a non-carcinogen by the US Department of Health and Human Services.
+
+In case of suspected sudden intake of a large amount of aluminium, deferoxamine mesylate may be given to help eliminate it from the body by chelation.
+
+Exposure to powdered aluminium or aluminium welding fumes can cause pulmonary fibrosis. The United States Occupational Safety and Health Administration (OSHA) has set a permissible exposure limit of 15 mg/m time weighted average (TWA) for total exposure and 5 mg/m TWA for respiratory exposure. The US National Institute for Occupational Safety and Health (NIOSH) recommended exposure limit is the same for respiratory exposure but is 10 mg/m for total exposure, and 5 mg/m for fumes and powder.
+
+Fine aluminium powder can ignite or explode, posing another workplace hazard.
+
+Aluminium has controversially been implicated as a factor in Alzheimer's disease. According to the Alzheimer's Society, the medical and scientific opinion is that studies have not convincingly demonstrated a causal relationship between aluminium and Alzheimer's disease. Nevertheless, some studies, such as those on the PAQUID cohort, cite aluminium exposure as a risk factor for Alzheimer's disease. Some brain plaques have been found to contain increased levels of the metal. Research in this area has been inconclusive; aluminium accumulation may be a consequence of the disease rather than a causal agent.
+
+Aluminium is primary among the factors that reduce plant growth on acid soils. Although it is generally harmless to plant growth in pH-neutral soils, the concentration in acid soils of toxic Al cations increases and disturbs root growth and function.
+
+Most acid soils are saturated with aluminium rather than hydrogen ions. The acidity of the soil is therefore, a result of hydrolysis of aluminium compounds. The concept of "corrected lime potential" is now used to define the degree of base saturation in soil testing to determine the "lime requirement".
+
+Wheat has developed a tolerance to aluminium, releasing of organic compounds that bind to harmful aluminium cations. Sorghum is believed to have the same tolerance mechanism. The first gene for aluminium tolerance has been identified in wheat. It was shown that sorghum's aluminium tolerance is controlled by a single gene, as for wheat. This adaptation is not found in all plants.
+
+A Spanish scientific report from 2001 claimed that the fungus "Geotrichum candidum" consumes the aluminium in compact discs. Other reports all refer back to the 2001 Spanish report and there is no supporting original research. Better documented, the bacterium "Pseudomonas aeruginosa" and the fungus "Cladosporium resinae" are commonly detected in aircraft fuel tanks that use kerosene-based fuels (not AV gas), and laboratory cultures can degrade aluminium. However, these life forms do not directly attack or consume the aluminium; rather, the metal is corroded by microbe waste products.
+
+
+
+
+

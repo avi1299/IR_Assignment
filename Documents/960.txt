@@ -1,0 +1,55 @@
+
+Aramaic alphabet
+
+The ancient Aramaic alphabet is adapted from the Phoenician alphabet and became distinctive from it by the 8th century BCE. It was used to write the Aramaic language and had displaced the Paleo-Hebrew alphabet for the writing of Hebrew. The letters all represent consonants, some of which are also used as "matres lectionis" to indicate long vowels.
+
+The Aramaic alphabet is historically significant since virtually all modern Middle Eastern writing systems can be traced back to it as well as numerous non-Chinese writing systems of Central and East Asia. That is primarily from the widespread usage of the Aramaic language as both a "lingua franca" and the official language of the Neo-Assyrian and Neo-Babylonian Empires, and their successor, the Achaemenid Empire. Among the scripts in modern use, the Hebrew alphabet bears the closest relation to the Imperial Aramaic script of the 5th century BC, with an identical letter inventory and, for the most part, nearly identical letter shapes.
+
+Writing systems (like the Aramaic one) that indicate consonants but do not indicate most vowels other than by means of "matres lectionis" or added diacritical signs, have been called abjads by Peter T. Daniels to distinguish them from true alphabets, such as Greek alphabet, which represent vowels more systematically. The term was coined to avoid the notion that a writing system that represents sounds must be either a syllabary or an alphabet, which would imply that a system like Aramaic must be either a syllabary (as argued by Ignace Gelb) or an incomplete or deficient alphabet (as most other writers have said). Rather, it is a different type.
+
+The earliest inscriptions in the Aramaic language use the Phoenician alphabet. Over time, the alphabet developed into the form shown below. Aramaic gradually became the "lingua franca" throughout the Middle East, with the script at first complementing and then displacing Assyrian cuneiform, as the predominant writing system.
+
+Around 500 BC, following the Persian Achaemenid conquest of Mesopotamia under Darius I, Old Aramaic was adopted by the Iranians as the "vehicle for written communication between the different regions of the vast Persian empire with its different peoples and languages. The use of a single official language, which modern scholarship has dubbed as Official Aramaic, Imperial Aramaic or Achaemenid Aramaic, can be assumed to have greatly contributed to the astonishing success of the Achaemenid Persians in holding their far-flung empire together for as long as they did."
+
+Imperial Aramaic was highly standardised; its orthography was based more on historical roots than any spoken dialect and was inevitably influenced by Old Persian. The Aramaic glyph forms of the period are often divided into two main styles, the "lapidary" form, usually inscribed on hard surfaces like stone monuments, and a cursive form whose lapidary form tended to be more conservative by remaining more visually similar to Phoenician and early Aramaic. Both were in use through the Achaemenid Persian period, but the cursive form steadily gained ground over the lapidary, which had largely disappeared by the 3rd century BC.
+For centuries after the fall of the Achaemenid Empire in 331 BC, Imperial Aramaic, or something near enough to it to be recognisable, would remain an influence on the various native Iranian languages. The Aramaic script would survive as the essential characteristics of the Iranian Pahlavi writing system.
+
+A group of 30 Aramaic documents from Bactria has been recently discovered. An analysis was published in November 2006. The texts, which were rendered on leather, reflect the use of Aramaic in the 4th century BC in the Persian Achaemenid administration of Bactria and Sogdiana.
+
+The widespread usage of Achaemenid Aramaic in the Middle East led to the gradual adoption of the Aramaic alphabet for writing Hebrew. Formerly, Hebrew had been written using an alphabet closer in form to that of Phoenician, the Paleo-Hebrew alphabet.
+
+Since the evolution of the Aramaic alphabet out of the Phoenician one was a gradual process, the division of the world's alphabets into the ones derived from the Phoenician one directly and the ones derived from Phoenician via Aramaic is somewhat artificial. In general, the alphabets of the Mediterranean region (Anatolia, Greece, Italy) are classified as Phoenician-derived, adapted from around the 8th century BC, and those of the East (the Levant, Persia, Central Asia and India) are considered Aramaic-derived, adapted from around the 6th century BC from the Imperial Aramaic script of the Achaemenid Empire.
+
+After the fall of the Achaemenid Empire, the unity of the Imperial Aramaic script was lost, diversifying into a number of descendant cursives.
+
+The Hebrew and Nabataean alphabets, as they stood by the Roman era, were little changed in style from the Imperial Aramaic alphabet.
+
+A cursive Hebrew variant developed from the early centuries AD, but it remained restricted to the status of a variant used alongside the noncursive. By contrast, the cursive developed out of the Nabataean alphabet in the same period soon became the standard for writing Arabic, evolving into the Arabic alphabet as it stood by the time of the early spread of Islam.
+
+The development of cursive versions of Aramaic also led to the creation of the Syriac, Palmyrene and Mandaic alphabets, which formed the basis of the historical scripts of Central Asia, such as the Sogdian and Mongolian alphabets.
+
+The Old Turkic script is generally considered to have its ultimate origins in Aramaic, in particular via the Pahlavi or Sogdian alphabets, as suggested by V. Thomsen, or possibly via Karosthi ("cf"., Issyk inscription).
+
+Aramaic is also considered to be the most likely source of the Brahmi script, ancestor of the Brahmic family of scripts, which includes Devanagari.
+
+Today, Biblical Aramaic, Jewish Neo-Aramaic dialects and the Aramaic language of the Talmud are written in the Hebrew alphabet. Syriac and Christian Neo-Aramaic dialects are written in the Syriac alphabet. Mandaic is written in the Mandaic alphabet. The near-identity of the Aramaic and the classical Hebrew alphabets caused Aramaic text to be typeset mostly in the standard Hebrew script in scholarly literature.
+
+In Ma'loula, one of few surviving communities in which a Western Aramaic dialect is still spoken, the Arameans started a programme to give their language a written abjad for the Aramaic alphabet. The program ran into trouble recently as a Syrian newspaper suggested that the alphabet being used to teach written Aramaic bore an uncanny resemblance to the Hebrew characters found in modern Israel. Worried that a flagship heritage scheme might in any way be associated with the country’s neighboring enemy, the government-run University of Damascus, which established the institute, acted quickly to freeze the Aramaic programme. They started to use the Syriac alphabet (serto) instead.
+
+In Aramaic writing, Waw and Yodh serve a double function. Originally, they represented only the consonants "w" and "y", but they were later adopted to indicate the long vowels "ū" and "ī" respectively as well (often also "ō" and "ē" respectively). In the latter role, they are known as "matres lectionis" or "mothers of reading".
+
+Ālap, likewise, has some of the characteristics of a "mater lectionis" because in initial positions, it indicates a glottal stop (followed by a vowel), but otherwise, it often also stands for the long vowels "ā" or "ē". Among Jews, the influence of Hebrew often led to the use of Hē instead, at the end of a word.
+
+The practice of using certain letters to hold vowel values spread to Aramaic-derived writing systems, such as in Arabic and Hebrew, which still follow the practice.
+
+The Syriac Aramaic alphabet was added to the Unicode Standard in September 1999, with the release of version 3.0.
+
+The Syriac Abbreviation (a type of overline) can be represented with a special control character called the Syriac Abbreviation Mark (U+070F). The Unicode block for Syriac Aramaic is U+0700–U+074F:
+
+The Imperial Aramaic alphabet was added to the Unicode Standard in October 2009, with the release of version 5.2.
+
+The Unicode block for Imperial Aramaic is U+10840–U+1085F:
+
+
+
+

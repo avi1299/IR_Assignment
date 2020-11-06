@@ -1,0 +1,77 @@
+
+Amine
+
+In organic chemistry, amines (US: or , UK: , or ) are compounds and functional groups that contain a basic nitrogen atom with a lone pair. Amines are formally derivatives of ammonia, where in one or more hydrogen atoms have been replaced by a substituent such as an alkyl or aryl group. (These may respectively be called alkylamines and arylamines; amines in which both types of substituent are attached to one nitrogen atom may be called alkylarylamines.) Important amines include amino acids, biogenic amines, trimethylamine, and aniline; see for a list of amines. Inorganic derivatives of ammonia are also called amines, such as chloramine (NClH); see .
+
+Compounds with a nitrogen atom attached to a carbonyl group, thus having the structure R–CO–NR′R″, are called amides and have different chemical properties from amines.
+
+An aliphatic amine has no aromatic ring attached directly to the nitrogen atom. Aromatic amines have the nitrogen atom connected to an aromatic ring as in the various anilines. The aromatic ring decreases the alkalinity of the amine, depending on its substituents. The presence of an amine group strongly increases the reactivity of the aromatic ring, due to an electron-donating effect.
+
+Amines are organized into four subcategories:
+
+
+It is also possible to have four organic substituents on the nitrogen. These species are not amines but are quaternary ammonium cations and have a charged nitrogen center. Quaternary ammonium salts exist with many kinds of anions.
+
+Amines are named in several ways. Typically, the compound is given the prefix "amino-" or the suffix: "-amine". The prefix ""N"-" shows substitution on the nitrogen atom. An organic compound with multiple amino groups is called a diamine, triamine, tetraamine and so forth.
+
+Systematic names for some common amines:
+Hydrogen bonding significantly influences the properties of primary and secondary amines. Thus the boiling point of amines is higher than those of the corresponding phosphines, but generally lower than those of the corresponding alcohols. For example, methyl and ethyl amines are gases under standard conditions, whereas the corresponding methyl and ethyl alcohols are liquids. Gaseous amines possess a characteristic ammonia smell, liquid amines have a distinctive "fishy" smell.
+
+Also reflecting their ability to form hydrogen bonds, most aliphatic amines display some solubility in water. Solubility decreases with the increase in the number of carbon atoms. Aliphatic amines display significant solubility in organic solvents, especially polar organic solvents. Primary amines react with ketones such as acetone.
+
+The aromatic amines, such as aniline, have their lone pair electrons conjugated into the benzene ring, thus their tendency to engage in hydrogen bonding is diminished. Their boiling points are high and their solubility in water is low.
+
+Amines of the type NHRR′ and NRR′R″ are chiral: the nitrogen atom bears four substituents counting the lone pair. The energy barrier for the inversion of the stereocenter is relatively low, e.g., ~7 kcal/mol for a trialkylamine. The interconversion of the stereoisomers has been compared to the inversion of an open umbrella into a strong wind. Because of this low barrier, amines such as NHRR′ cannot be resolved optically and NRR′R″ can only be resolved when the R, R′, and R″ groups are constrained in cyclic structures such as aziridines. Quaternary ammonium salts with four distinct groups on the nitrogen are capable of exhibiting optical activity.
+
+Like ammonia, amines are bases. Compared to alkali metal hydroxides, amines are weaker (see table for examples of conjugate acid "K" values). The basicity of amines depends on:
+
+
+The nitrogen atom features a lone electron pair that can bind H to form an ammonium ion RNH. The lone electron pair is represented in this article by a two dots above or next to the N. The water solubility of simple amines is largely due to hydrogen bonding between protons in the water molecules and these lone electron pairs.
+
+
+The solvation of protonated amines changes upon their conversion to ammonium compounds. Typically salts of ammonium compounds exhibit the following order of solubility in water: primary ammonium () > secondary ammonium () > tertiary ammonium (RNH). Quaternary ammonium salts usually exhibit the lowest solubility of the series.
+
+In sterically hindered amines, as in the case of trimethylamine, the protonated form is not well-solvated. For this reason the parent amine is less basic than expected. In the case of aprotic polar solvents (like DMSO and DMF), wherein the extent of solvation is not as high as in protic polar solvents (like water and methanol), the basicity of amines is almost solely governed by the electronic factors within the molecule.
+
+The most industrially significant amines are prepared from ammonia by alkylation with alcohols:
+These reactions require catalysts, specialized apparatus, and additional purification measures since the selectivity can be problematic. The same amines can be prepared by treatment of haloalkanes with ammonia and amines:
+Such reactions, which are most useful for alkyl iodides and bromides, are rarely employed because the degree of alkylation is difficult to control. Selectivity can be improved via the delepine reaction, although this is rarely employed on an industrial scale.
+
+Via the process of hydrogenation, nitriles are reduced to amines using hydrogen in the presence of a nickel catalyst. Reactions are sensitive to acidic or alkaline conditions, which can cause hydrolysis of the –CN group. LiAlH is more commonly employed for the reduction of nitriles on the laboratory scale. Similarly, LiAlH reduces amides to amines. Many amines are produced from aldehydes and ketones via reductive amination, which can either proceed catalytically or stoichiometrically.
+
+Aniline (CHNH) and its derivatives are prepared by reduction of the nitroaromatics. In industry, hydrogen is the preferred reductant, whereas in the laboratory, tin and iron are often employed.
+
+Many laboratory methods exist for the preparation of amines, many of these methods being rather specialized.
+
+Aside from their basicity, the dominant reactivity of amines is their nucleophilicity. Most primary amines are good ligands for metal ions to give coordination complexes. Amines are alkylated by alkyl halides. Acyl chlorides and acid anhydrides react with primary and secondary amines to form amides (the "Schotten–Baumann reaction").
+
+Similarly, with sulfonyl chlorides, one obtains sulfonamides. This transformation, known as the Hinsberg reaction, is a chemical test for the presence of amines.
+
+Because amines are basic, they neutralize acids to form the corresponding ammonium salts RNH. When formed from carboxylic acids and primary and secondary amines, these salts thermally dehydrate to form the corresponding amides.
+
+Amines react with nitrous acid to give diazonium salts. The alkyl diazonium salts are of little synthetic importance because they are too unstable. The most important members are derivatives of aromatic amines such as aniline ("phenylamine") (A = aryl or naphthyl):
+
+Anilines and naphthylamines form more stable diazonium salts, which can be isolated in the crystalline form. Diazonium salts undergo a variety of useful transformations involving replacement of the N group with anions. For example, cuprous cyanide gives the corresponding nitriles:
+
+Aryldiazonium couple with electron-rich aromatic compounds such as a phenol to form azo compounds. Such reactions are widely applied to the production of dyes.
+
+Imine formation is an important reaction. Primary amines react with ketones and aldehydes to form imines. In the case of formaldehyde (R′ = H), these products typically exist as cyclic trimers.
+Reduction of these imines gives secondary amines:
+
+Similarly, secondary amines react with ketones and aldehydes to form enamines:
+
+An overview of the reactions of amines is given below:
+Amines are ubiquitous in biology. The breakdown of amino acids releases amines, famously in the case of decaying fish which smell of trimethylamine. Many neurotransmitters are amines, including epinephrine, norepinephrine, dopamine, serotonin, and histamine. Protonated amino groups () are the most common positively charged moieties in proteins, specifically in the amino acid lysine. The anionic polymer DNA is typically bound to various amine-rich proteins. Additionally, the terminal charged primary ammonium on lysine forms salt bridges with carboxylate groups of other amino acids in polypeptides, which is one of the primary influences on the three-dimensional structures of proteins.
+
+Primary aromatic amines are used as a starting material for the manufacture of azo dyes. It reacts with nitrous acid to form diazonium salt, which can undergo coupling reaction to form azo compound. As azo-compounds are highly coloured, they are widely used in dyeing industries, such as:
+
+
+Many drugs are designed to mimic or to interfere with the action of natural amine neurotransmitters, exemplified by the amine drugs:
+
+Aqueous monoethanolamine (MEA), diglycolamine (DGA), diethanolamine (DEA), diisopropanolamine (DIPA) and methyldiethanolamine (MDEA) are widely used industrially for removing carbon dioxide (CO) and hydrogen sulfide (HS) from natural gas and refinery process streams. They may also be used to remove CO from combustion gases and flue gases and may have potential for abatement of greenhouse gases. Related processes are known as sweetening.
+
+Low molecular weight amines, such as ethylamine, are toxic, and some are easily absorbed through the skin. Many higher molecular weight amines are, biologically, highly active.
+
+
+
+

@@ -1,0 +1,40 @@
+
+Aromatic hydrocarbon
+
+An aromatic hydrocarbon or arene (or sometimes aryl hydrocarbon) is a hydrocarbon with sigma bonds and delocalized pi electrons between carbon atoms forming rings. The term 'aromatic' was assigned before the physical mechanism determining aromaticity was discovered; the term was coined as such simply because many of the compounds have a sweet or pleasant odour. The configuration of six carbon atoms in aromatic compounds is known as a benzene ring, after the simplest possible such hydrocarbon, benzene. Aromatic hydrocarbons can be "monocyclic" (MAH) or "polycyclic" (PAH).
+
+Some non-benzene-based compounds called heteroarenes, which follow Hückel's rule (for monocyclic rings: when the number of its π-electrons equals 4"n" + 2, where "n" = 0, 1, 2, 3…), are also called aromatic compounds. In these compounds, at least one carbon atom is replaced by one of the heteroatoms oxygen, nitrogen, or sulfur. Examples of non-benzene compounds with aromatic properties are furan, a heterocyclic compound with a five-membered ring that includes a single oxygen atom, and pyridine, a heterocyclic compound with a six-membered ring containing one nitrogen atom.
+
+Benzene, CH, is the simplest aromatic hydrocarbon, and it was the first one named as such. The nature of its bonding was first recognized by August Kekulé in the 19th century. Each carbon atom in the hexagonal cycle has four electrons to share. One goes to the hydrogen atom, and one each to the two neighbouring carbons. This leaves one electron to share with one of the same two neighbouring carbon atoms, thus creating a double bond with one carbon and leaving a single bond with the other, which is why the benzene molecule is drawn with alternating single and double bonds around the hexagon.
+
+The structure is alternatively illustrated as a circle around the inside of the ring to show six electrons floating around in delocalized molecular orbitals the size of the ring itself. This depiction represents the equivalent nature of the six carbon–carbon bonds all of bond order 1.5; the equivalency is explained by resonance forms. The electrons are visualized as floating above and below the ring with the electromagnetic fields they generate acting to keep the ring flat.
+
+General properties of aromatic hydrocarbons:
+
+The circle symbol for aromaticity was introduced by Sir Robert Robinson and his student James Armit in 1925 and popularized starting in 1959 by the Morrison & Boyd textbook on organic chemistry. The proper use of the symbol is debated; it is used to describe any cyclic π system in some publications, or only those π systems that obey Hückel's rule in others. Jensen argues that, in line with Robinson's original proposal, the use of the circle symbol should be limited to monocyclic 6 π-electron systems. In this way the circle symbol for a six-center six-electron bond can be compared to the Y symbol for a three-center two-electron bond.
+
+A reaction that forms an arene compound from an unsaturated or partially unsaturated cyclic precursor is simply called an aromatization. Many laboratory methods exist for the organic synthesis of arenes from non-arene precursors. Many methods rely on cycloaddition reactions. Alkyne trimerization describes the [2+2+2] cyclization of three alkynes, in the Dötz reaction an alkyne, carbon monoxide and a chromium carbene complex are the reactants. Diels–Alder reactions of alkynes with pyrone or cyclopentadienone with expulsion of carbon dioxide or carbon monoxide also form arene compounds. In Bergman cyclization the reactants are an enyne plus a hydrogen donor.
+
+Another set of methods is the aromatization of cyclohexanes and other aliphatic rings: reagents are catalysts used in hydrogenation such as platinum, palladium and nickel (reverse hydrogenation), quinones and the elements sulfur and selenium.
+
+Arenes are reactants in many organic reactions.
+
+In aromatic substitution one substituent on the arene ring, usually hydrogen, is replaced by another substituent. The two main types are electrophilic aromatic substitution when the active reagent is an electrophile and nucleophilic aromatic substitution when the reagent is a nucleophile. In radical-nucleophilic aromatic substitution the active reagent is a radical. An example of electrophilic aromatic substitution is the nitration of salicylic acid:
+
+In coupling reactions a metal catalyses a coupling between two formal radical fragments. Common coupling reactions with arenes result in the formation of new carbon–carbon bonds e.g., alkylarenes, vinyl arenes, biraryls, new carbon–nitrogen bonds (anilines) or new carbon–oxygen bonds (aryloxy compounds). An example is the direct arylation of perfluorobenzenes 
+
+Hydrogenation of arenes create saturated rings. The compound 1-naphthol is completely reduced to a mixture of decalin-ol isomers.
+The compound resorcinol, hydrogenated with Raney nickel in presence of aqueous sodium hydroxide forms an enolate which is alkylated with methyl iodide to 2-methyl-1,3-cyclohexandione:
+
+Cycloaddition reaction are not common. Unusual thermal Diels–Alder reactivity of arenes can be found in the Wagner-Jauregg reaction. Other photochemical cycloaddition reactions with alkenes occur through excimers.
+
+Benzene derivatives have from one to six substituents attached to the central benzene core. Examples of benzene compounds with just one substituent are phenol, which carries a hydroxyl group, and toluene with a methyl group. When there is more than one substituent present on the ring, their spatial relationship becomes important for which the arene substitution patterns "ortho", "meta", and "para" are devised. For example, three isomers exist for cresol because the methyl group and the hydroxyl group can be placed next to each other ("ortho"), one position removed from each other ("meta"), or two positions removed from each other ("para"). Xylenol has two methyl groups in addition to the hydroxyl group, and, for this structure, 6 isomers exist.
+
+The arene ring has an ability to stabilize charges. This is seen in, for example, phenol (CH–OH), which is acidic at the hydroxyl (OH), since a charge on this oxygen (alkoxide –O) is partially delocalized into the benzene ring.
+
+Polycyclic aromatic hydrocarbons (PAHs) are aromatic hydrocarbons that consist of fused aromatic rings and do not contain heteroatoms or carry substituents. Naphthalene is the simplest example of a PAH. PAHs occur in oil, coal, and tar deposits, and are produced as byproducts of fuel burning (whether fossil fuel or biomass). As pollutants, they are of concern because some compounds have been identified as carcinogenic, mutagenic, and teratogenic. PAHs are also found in cooked foods. Studies have shown that high levels of PAHs are found, for example, in meat cooked at high temperatures such as grilling or barbecuing, and in smoked fish.
+
+They are also found in the interstellar medium, in comets, and in meteorites and are a candidate molecule to act as a basis for the earliest forms of life. In graphene the PAH motif is extended to large 2D sheets.
+
+
+

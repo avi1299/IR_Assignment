@@ -1,0 +1,96 @@
+
+Acoustic theory
+
+Acoustic theory is a mathematical field that relates to the description of sound waves. It derives from fluid dynamics. See acoustics for the engineering approach.
+
+Propagation of sound waves in a fluid (such as water) can be modeled by an equation of continuity (conservation of mass) and an equation of motion (conservation of momentum) . With some simplifications, in particular constant density, they can be given as follows:
+where formula_2 is the acoustic pressure and formula_3 is the flow velocity vector, formula_4 is the vector of spatial coordinates formula_5, formula_6 is the time, formula_7 is the static mass density of the medium and formula_8 is the bulk modulus of the medium. The bulk modulus can be expressed in terms of the density and the speed of sound in the medium (formula_9) as
+If the flow velocity field is irrotational, formula_11, then the acoustic wave equation is a combination of these two sets of balance equations and can be expressed as
+where we have used the vector Laplacian, formula_13
+The acoustic wave equation (and the mass and momentum balance equations) are often expressed in terms of a scalar potential formula_14 where formula_15. In that case the acoustic wave equation is written as
+and the momentum balance and mass balance are expressed as
+
+The derivations of the above equations for waves in an acoustic medium are given below.
+
+The equations for the conservation of linear momentum for a fluid medium are
+where formula_19 is the body force per unit mass, formula_20 is the pressure, and formula_21 is the deviatoric stress. If formula_22 is the Cauchy stress, then
+where formula_24 is the rank-2 identity tensor.
+
+We make several assumptions to derive the momentum balance equation for an acoustic medium. These assumptions and the resulting forms of the momentum equations are outlined below.
+
+In acoustics, the fluid medium is assumed to be Newtonian. For a Newtonian fluid, the deviatoric stress tensor is related to the flow velocity by
+where formula_26 is the shear viscosity and formula_27 is the bulk viscosity.
+
+Therefore, the divergence of formula_21 is given by
+Using the identity formula_30, we have
+The equations for the conservation of momentum may then be written as
+
+For most acoustics problems we assume that the flow is irrotational, that is, the vorticity is zero. In that case
+and the momentum equation reduces to
+
+Another frequently made assumption is that effect of body forces on the fluid medium is negligible. The momentum equation then further simplifies to
+
+Additionally, if we assume that there are no viscous forces in the medium (the bulk and shear viscosities are zero), the momentum equation takes the form
+
+An important simplifying assumption for acoustic waves is that the amplitude of the disturbance of the field quantities is small. This assumption leads to the linear or small signal acoustic wave equation. Then we can express the variables as the sum of the (time averaged) mean field (formula_37) that varies in space and a small fluctuating field (formula_38) that varies in space and time. That is
+and
+Then the momentum equation can be expressed as
+Since the fluctuations are assumed to be small, products of the fluctuation terms can be neglected (to first order) and we have
+
+Next we assume that the medium is homogeneous; in the sense that the time averaged variables
+formula_43 and formula_44 have zero gradients, i.e.,
+The momentum equation then becomes
+
+At this stage we assume that the medium is at rest, which implies that the mean flow velocity is zero, i.e., formula_47. Then the balance of momentum reduces to
+Dropping the tildes and using formula_49, we get the commonly used form of the acoustic momentum equation
+
+The equation for the conservation of mass in a fluid volume (without any mass sources or sinks) is given by
+where formula_52 is the mass density of the fluid and formula_53 is the flow velocity.
+
+The equation for the conservation of mass for an acoustic medium can also be derived in a manner similar to that used for the conservation of momentum.
+
+From the assumption of small disturbances we have
+and
+Then the mass balance equation can be written as
+If we neglect higher than first order terms in the fluctuations, the mass balance equation becomes
+
+Next we assume that the medium is homogeneous, i.e.,
+Then the mass balance equation takes the form
+
+At this stage we assume that the medium is at rest, i.e., formula_47. Then the mass balance equation can be expressed as
+
+To close the system of equations we need an equation of state for the pressure. To do that we assume that the medium is an ideal gas and all acoustic waves compress the medium in an adiabatic and reversible manner. The equation of state can then be expressed in the form of the differential equation:
+where formula_63 is the specific heat at constant pressure, formula_64 is the specific heat at constant volume, and formula_65 is the wave speed. The value of formula_66 is 1.4 if the acoustic medium is air.
+
+For small disturbances
+where formula_9 is the speed of sound in the medium.
+
+Therefore,
+The balance of mass can then be written as
+Dropping the tildes and defining formula_71 gives us the commonly used expression for the balance of mass in an acoustic medium:
+
+If we use a cylindrical coordinate system formula_73 with basis vectors formula_74, then the gradient of formula_20 and the divergence of formula_76 are given by
+where the flow velocity has been expressed as formula_78.
+
+The equations for the conservation of momentum may then be written as
+In terms of components, these three equations for the conservation of momentum in cylindrical coordinates are
+
+The equation for the conservation of mass can similarly be written in cylindrical coordinates as
+
+The acoustic equations for the conservation of momentum and the conservation of mass are often expressed in time harmonic form (at fixed frequency). In that case, the pressures and the flow velocity are assumed to be time harmonic functions of the form
+where formula_83 is the frequency. Substitution of these expressions into the governing equations in cylindrical coordinates gives us the fixed frequency form of the conservation of momentum
+and the fixed frequency form of the conservation of mass
+
+In the special case where the field quantities are independent of the z-coordinate we can eliminate formula_86 to get
+Assuming that the solution of this equation can be written as
+we can write the partial differential equation as
+The left hand side is not a function of formula_90 while the right hand side is not a function of formula_91. Hence,
+where formula_93 is a constant. Using the substitution
+we have
+The equation on the left is the Bessel equation, which has the general solution
+where formula_97 is the cylindrical Bessel function of the first kind and formula_98 are undetermined constants. The equation on the right has the general solution
+where formula_100 are undetermined constants. Then the solution of the acoustic wave equation is
+Boundary conditions are needed at this stage to determine formula_102 and the other undetermined constants.
+
+
+

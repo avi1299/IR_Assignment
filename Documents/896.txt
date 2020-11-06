@@ -1,0 +1,83 @@
+
+Argon
+
+Argon is a chemical element with symbol Ar and atomic number 18. It is in group 18 of the periodic table and is a noble gas. Argon is the third most abundant gas in the Earth's atmosphere, at 0.934% (9340 ppmv) more than twice as abundant as water vapor (which averages about 4000 ppmv, but varies greatly), 23 times as abundant as carbon dioxide (400 ppmv), and more than 500 times as abundant as neon (18 ppmv). Argon is the most abundant noble gas in Earth's crust, comprising 0.00015% of the crust.
+
+Nearly all of the argon in Earth's atmosphere is radiogenic argon-40, derived from the decay of potassium-40 in the Earth's crust. In the universe, argon-36 is by far the most common argon isotope, being the preferred argon isotope produced by stellar nucleosynthesis in supernovas.
+
+The name "argon" is derived from the Greek word , neuter singular form of meaning "lazy" or "inactive", as a reference to the fact that the element undergoes almost no chemical reactions. The complete octet (eight electrons) in the outer atomic shell makes argon stable and resistant to bonding with other elements. Its triple point temperature of 83.8058 K is a defining fixed point in the International Temperature Scale of 1990.
+
+Argon is produced industrially by the fractional distillation of liquid air. Argon is mostly used as an inert shielding gas in welding and other high-temperature industrial processes where ordinarily unreactive substances become reactive; for example, an argon atmosphere is used in graphite electric furnaces to prevent the graphite from burning. Argon is also used in incandescent, fluorescent lighting, and other gas discharge tubes. Argon makes a distinctive blue-green gas laser. Argon is also used in fluorescent glow starters.
+
+Argon has approximately the same solubility in water as oxygen, and is 2.5 times more soluble in water than nitrogen. Argon is colorless, odorless, nonflammable and nontoxic as a solid, liquid, and gas. Argon is chemically inert under most conditions and forms no confirmed stable compounds at room temperature.
+
+Although argon is a noble gas, it can form some compounds. Argon fluorohydride (HArF), a compound of argon with fluorine and hydrogen that is stable below 17 K, has been demonstrated. Although the neutral ground-state chemical compounds of argon are presently limited to HArF, argon can form clathrates with water when atoms of argon are trapped in a lattice of water molecules. Ions, such as , and excited state complexes, such as ArF, have been demonstrated. Theoretical calculation predicts several more argon compounds that should be stable but have not yet been synthesized.
+
+"Argon" (’αργόν, neuter singular form of ’αργός, Greek meaning "inactive", in reference to its chemical inactivity) was suspected to be a component of air by Henry Cavendish in 1785. Argon was first isolated from air 1894 by Lord Rayleigh and Sir William Ramsay at University College London by removing oxygen, carbon dioxide, water, and nitrogen from a sample of clean air. They had determined that nitrogen produced from chemical compounds was one-half percent lighter than nitrogen from the atmosphere. The difference was slight, but it was important enough to attract their attention for many months. They concluded that there was another gas in the air mixed in with the nitrogen. Argon was also encountered in 1882 through independent research of H. F. Newall and W. N. Hartley. Each observed new lines in the color spectrum of air that did not match known elements. Argon was the first noble gas to be discovered. Until 1957, the symbol for argon was "A", but now is "Ar".
+
+Argon constitutes 0.934% by volume and 1.288% by mass of the Earth's atmosphere, and air is the primary industrial source of purified argon products. Argon is isolated from air by fractionation, most commonly by cryogenic fractional distillation, a process that also produces purified nitrogen, oxygen, neon, krypton and xenon. The Earth's crust and seawater contain 1.2 ppm and 0.45 ppm of argon, respectively.
+
+The main isotopes of argon found on Earth are (99.6%), (0.34%), and (0.06%). Naturally occurring , with a half-life of 1.25 years, decays to stable (11.2%) by electron capture or positron emission, and also to stable (88.8%) via beta decay. These properties and ratios are used to determine the age of rocks by K-Ar dating.
+
+In the Earth's atmosphere, is made by cosmic ray activity, primarily with . In the subsurface environment, it is also produced through neutron capture by or alpha emission by calcium. is created from the neutron capture by followed by an alpha particle emission as a result of subsurface nuclear explosions. It has a half-life of 35 days.
+
+Between locations in the Solar System, the isotopic composition of argon varies greatly. Where the major source of argon is the decay of  in rocks, will be the dominant isotope, as it is on Earth. Argon produced directly by stellar nucleosynthesis, is dominated by the alpha process nuclide, . Correspondingly, solar argon contains 84.6% (according to solar wind measurements), and the ratio of the three isotopes Ar : Ar : Ar in the atmospheres of the outer planets is 8400 : 1600 : 1. This contrasts with the low abundance of primordial in Earth's atmosphere, which is only 31.5 ppmv (= 9340 ppmv × 0.337%), comparable with that of neon (18.18 ppmv) on Earth and with interplanetary gasses, measured by probes.
+
+The Martian atmosphere contains 1.6% of and 5 ppm of . The Mariner probe fly-by of the planet Mercury in 1973 found that Mercury has a very thin atmosphere with 70% argon, believed to result from radioactive decay of in the planet's crust. In 2005, the Huygens probe discovered the presence of exclusively on Titan, the largest moon of Saturn.
+
+The predominance of radiogenic is the reason the standard atomic weight of terrestrial argon is greater than that of the next element, potassium, a fact that was puzzling when argon was discovered. Mendeleev positioned the elements on his periodic table in order of atomic weight, but the inertness of argon suggested a placement "before" the reactive alkali metal. Henry Moseley later solved this problem by showing that the periodic table is actually arranged in order of atomic number. (See History of the periodic table).
+
+Argon's complete octet of electrons indicates full s and p subshells. This full outer energy level makes argon very stable and extremely resistant to bonding with other elements. Before 1962, argon and the other noble gases were considered to be chemically inert and unable to form compounds; however, compounds of the heavier noble gases have since been synthesized. In August 2000, the first argon compound was formed by researchers at the University of Helsinki. By shining ultraviolet light onto frozen argon containing a small amount of hydrogen fluoride with caesium iodide, argon fluorohydride (HArF) was formed. It is stable up to 40 kelvin (−233 °C). The metastable dication, which is valence isoelectronic with carbonyl fluoride and phosgene, was observed in 2010. Argon-36, in the form of argon hydride (argonium) ions, has been detected in cosmic dust associated with the Crab Nebula supernova; this was the first noble-gas molecule detected in outer space.
+
+Solid argon hydride (Ar(H)) has the same crystal structure as the MgZn Laves phase. It forms at pressures between 4.3 and 220 GPa, though Raman measurements suggest that the H molecules in Ar(H) dissociate above 175 GPa.
+
+Argon is produced industrially by the fractional distillation of liquid air in a cryogenic air separation unit; a process that separates liquid nitrogen, which boils at 77.3 K, from argon, which boils at 87.3 K, and liquid oxygen, which boils at 90.2 K. About 700,000 tonnes of argon are produced worldwide every year.
+
+Ar, the most abundant isotope of argon, is produced by the decay of K with a half-life of 1.25 years by electron capture or positron emission. Because of this, it is used in potassium-argon dating to determine the age of rocks.
+
+Argon has several desirable properties:
+
+Other noble gases would be equally suitable for most of these applications, but argon is by far the cheapest. Argon is inexpensive since it occurs naturally in air and is readily obtained as a byproduct of cryogenic air separation in the production of liquid oxygen and liquid nitrogen: the primary constituents of air are used on a large industrial scale. The other noble gases (except helium) are produced this way as well, but argon is the most plentiful by far. The bulk of argon applications arise simply because it is inert and relatively cheap.
+
+Argon is used in some high-temperature industrial processes where ordinarily non-reactive substances become reactive. For example, an argon atmosphere is used in graphite electric furnaces to prevent the graphite from burning.
+
+For some of these processes, the presence of nitrogen or oxygen gases might cause defects within the material. Argon is used in some types of arc welding such as gas metal arc welding and gas tungsten arc welding, as well as in the processing of titanium and other reactive elements. An argon atmosphere is also used for growing crystals of silicon and germanium.
+Argon is used in the poultry industry to asphyxiate birds, either for mass culling following disease outbreaks, or as a means of slaughter more humane than the electric bath. Argon is denser than air and displaces oxygen close to the ground during gassing. Its non-reactive nature makes it suitable in a food product, and since it replaces oxygen within the dead bird, argon also enhances shelf life.
+
+Argon is sometimes used for extinguishing fires where valuable equipment may be damaged by water or foam.
+
+Liquid argon is used as the target for neutrino experiments and direct dark matter searches. The interaction between the hypothetical WIMP particle and an argon nucleus produces scintillation light that is detected by photomultiplier tubes. Two-phase detectors containing argon gas are used to detect the ionized electrons produced during the WIMP-nucleus scattering. As with most other liquefied noble gases, argon has a high scintillation light yield (c. 51 photons/keV), is transparent to its own scintillation light, and is relatively easy to purify. Compared to xenon, argon is cheaper and has a distinct scintillation time profile which allows the separation of electronic recoils from nuclear recoils. On the other hand, its intrinsic beta-ray background is larger due to contamination, unless one uses argon from underground sources, which has much less contamination. Most of the argon in the Earth’s atmosphere was produced by electron capture of long-lived ( + e → + ν) present in natural potassium within the earth. The activity in the atmosphere is maintained by cosmogenic production through (n,2n) and similar reactions. The half-life of is only 269 years. As a result, the underground Ar, shielded by rock and water, has much less contamination. Dark matter detectors currently operating with liquid argon include DarkSide, WArP, ArDM, microCLEAN and DEAP. Neutrino experiments include ICARUS and MicroBooNE, both of which use high purity liquid argon in a time projection chamber for fine grained three-dimensional imaging of neutrino interactions.
+
+Argon is used to displace oxygen- and moisture-containing air in packaging material to extend the shelf-lives of the contents (argon has the European food additive code of "E938"). Aerial oxidation, hydrolysis, and other chemical reactions that degrade the products are retarded or prevented entirely. High-purity chemicals and pharmaceuticals are sometimes packed and sealed in argon.
+
+In winemaking, argon is used in a variety of activities to provide a barrier against oxygen at the liquid's surface, which can spoil wine by fueling both microbial metabolism (as with acetic acid bacteria) and standard redox chemistry.
+
+Argon is sometimes used as the propellant in aerosol cans for such products as varnish, polyurethane, and paint, and to displace air when preparing a container for storage after opening.
+
+Since 2002, the American National Archives stores important national documents such as the Declaration of Independence and the Constitution within argon-filled cases to inhibit their degradation. Argon is preferable to the helium that had been used in the preceding five decades, because helium gas escapes through the intermolecular pores in most containers and must be regularly replaced.
+
+Argon may be used as the inert gas within Schlenk lines and gloveboxes. Argon is preferred to less expensive nitrogen in cases where nitrogen may react with the reagents or apparatus.
+
+Argon may be used as the carrier gas in gas chromatography and in electrospray ionization mass spectrometry; it is the gas of choice for the plasma used in ICP spectroscopy. Argon is preferred for the sputter coating of specimens for scanning electron microscopy. Argon gas is also commonly used for sputter deposition of thin films as in microelectronics and for wafer cleaning in microfabrication.
+
+Cryosurgery procedures such as cryoablation use liquid argon to destroy tissue such as cancer cells. It is used in a procedure called "argon enhanced coagulation", a form of argon plasma beam electrosurgery. The procedure carries a risk of producing gas embolism and has resulted in the death of at least one patient.
+
+Blue argon lasers are used in surgery to weld arteries, destroy tumors, and correct eye defects.
+
+Argon has also been used experimentally to replace nitrogen in the breathing or decompression mix known as Argox, to speed the elimination of dissolved nitrogen from the blood.
+
+Incandescent lights are filled with argon, to preserve the filaments at high temperature from oxidation. It is used for the specific way it ionizes and emits light, such as in plasma globes and calorimetry in experimental particle physics. Gas-discharge lamps filled with pure argon provide lilac/violet light; with argon and some mercury, blue light. Argon is also used for blue and green argon-ion lasers.
+
+Argon is used for thermal insulation in energy efficient windows. Argon is also used in technical scuba diving to inflate a dry suit because it is inert and has low thermal conductivity. 
+
+Argon is used as a propellant in the development of the Variable Specific Impulse Magnetoplasma Rocket (VASIMR). Compressed argon gas is allowed to expand, to cool the seeker heads of the AIM-9 Sidewinder missile and other missiles that use cooled thermal seeker heads. The gas is stored at high pressure.
+
+Argon-39, with a half-life of 269 years, has been used for a number of applications, primarily ice core and ground water dating. Also, potassium-argon dating is used to date igneous rocks.
+
+Argon has been used by athletes as a doping agent to simulate hypoxic conditions. On August 31, 2014 the World Anti Doping Agency (WADA) added argon and xenon to the list of prohibited substances and methods, although at this time there is no reliable test for abuse.
+
+Although argon is non-toxic, it is 38% denser than air and therefore considered a dangerous asphyxiant in closed areas. It is difficult to detect because it is colorless, odorless, and tasteless. A 1994 incident in which a man was asphyxiated after entering an argon-filled section of oil pipe under construction in Alaska highlights the dangers of argon tank leakage in confined spaces, and emphasizes the need for proper use, storage and handling.
+
+
+
+

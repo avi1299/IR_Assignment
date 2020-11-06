@@ -1,0 +1,27 @@
+
+Astronomer
+
+An astronomer is a scientist in the field of astronomy who concentrates their studies on a specific question or field outside of the scope of Earth. They look at stars, planets, moons, comets and galaxies, as well as many other celestial objects — either in observational astronomy, in analyzing the data or in theoretical astronomy. Examples of topics or fields astronomers work on include: planetary science, solar astronomy, the origin or evolution of stars, or the formation of galaxies. There are also related but distinct subjects like cosmology which studies the Universe as a whole.
+Astronomers usually fit into two types:
+
+Observational astronomers make direct observations of planets, stars and galaxies, and analyse the data.
+
+Theoretical astronomers create and investigate models of things that cannot be observed. Because it takes millions to billions of years for a system of stars or a galaxy to complete a life cycle astronomers have to observe snapshots of different systems at unique points in their evolution to determine how they form, evolve and die. They use this data to create models or simulations to theorize how different celestial bodies work. 
+
+There are further subcategories inside these two main branches of astronomy such as planetary astronomy, galactic astronomy or cosmology.
+
+Historically, astronomy was more concerned with the classification and description of phenomena in the sky, while astrophysics attempted to explain these phenomena and the differences between them using physical laws. Today, that distinction has mostly disappeared and the terms "astronomer" and "astrophysicist" are interchangeable. Professional astronomers are highly educated individuals who typically have a Ph.D. in physics or astronomy and are employed by research institutions or universities. They spend the majority of their time working on research, although they quite often have other duties such as teaching, building instruments, or aiding in the operation of an observatory.
+
+The number of professional astronomers in the United States is actually quite small. The American Astronomical Society, which is the major organization of professional astronomers in North America, has approximately 7,000 members. This number includes scientists from other fields such as physics, geology, and engineering, whose research interests are closely related to astronomy. The International Astronomical Union comprises almost 10,145 members from 70 different countries who are involved in astronomical research at the Ph.D. level and beyond.
+
+Contrary to the classical image of an old astronomer peering through a telescope through the dark hours of the night, it is far more common to use a charge-coupled device (CCD) camera to record a long, deep exposure, allowing a more sensitive image to be created because the light is added over time. Before CCDs, photographic plates were a common method of observation. Modern astronomers spend relatively little time at telescopes usually just a few weeks per year. Analysis of observed phenomena, along with making predictions as to the causes of what they observe, takes the majority of observational astronomers' time.
+
+Astronomers who serve as faculty spend much of their time teaching undergraduate and graduate classes. Most universities also have outreach programs including public telescope time and sometimes planetariums as a public service to encourage interest in the field.
+
+Those who become astronomers usually have a broad background in maths, sciences and computing in high school. Taking courses that teach how to research, write and present papers are also invaluable. In college/university most astronomers get a Ph.D. in astronomy or physics. Keeping in mind how few astronomers there are it is understood that graduate schools in this field are very competitive, so grades are very important. Students must take a Graduate Record Exam in the United States if they wish to be accepted into a US graduate school.
+
+While there is a relatively low number of professional astronomers, the field is popular among amateurs. Most cities have amateur astronomy clubs that meet on a regular basis and often host star parties. The Astronomical Society of the Pacific is the largest general astronomical society in the world, comprising both professional and amateur astronomers as well as educators from 70 different nations. Like any hobby, most people who think of themselves as amateur astronomers may devote a few hours a month to stargazing and reading the latest developments in research. However, amateurs span the range from so-called "armchair astronomers" to the very ambitious, who own science-grade telescopes and instruments with which they are able to make their own discoveries and assist professional astronomers in research.
+
+
+
+

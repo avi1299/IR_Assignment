@@ -1,0 +1,27 @@
+
+Affirming the consequent
+
+Affirming the consequent, sometimes called converse error, fallacy of the converse or confusion of necessity and sufficiency, is a formal fallacy of inferring the converse from the original statement. The corresponding argument has the general form:
+
+
+An argument of this form is invalid, i.e., the conclusion can be false even when statements 1 and 2 are true. Since "P" was never asserted as the "only" sufficient condition for "Q", other factors could account for "Q" (while "P" was false).
+
+To put it differently, if "P" implies "Q", the only inference that can be made is "non-Q" implies "non-P". ("Non-P" and "non-Q" designate the opposite propositions to "P" and "Q".) This is known as logical contraposition. Symbolically:
+
+formula_1
+
+The name "affirming the consequent" derives from the premise "Q", which affirms the "then" clause of the conditional premise.
+
+One way to demonstrate the invalidity of this argument form is with a counterexample with true premises but an obviously false conclusion. For example:
+
+Owning Fort Knox is not the "only" way to be rich. Any number of other ways exist to be rich.
+
+However, one can affirm with certainty that "if Bill Gates is not rich" ("non-Q") then "Bill Gates does not own Fort Knox" ("non-P"). This is the contrapositive of the first statement, and it must be true if and only if the original statement is true.
+
+Arguments of the same form can sometimes seem superficially convincing, as in the following example:
+
+But having the flu is not the "only" cause of a sore throat since many illnesses cause sore throat, such as the common cold or strep throat.
+
+Affirming the consequent is commonly used in rationalization, and thus appears as a coping mechanism in some people.
+
+

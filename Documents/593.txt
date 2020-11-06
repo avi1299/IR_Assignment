@@ -1,0 +1,89 @@
+
+Animation
+
+Animation is the process of making the illusion of motion and change by means of the rapid display of a sequence of static images that minimally differ from each other. The illusion—as in motion pictures in general—is thought to rely on the phi phenomenon. Animators are artists who specialize in the creation of animation.
+
+Animation can be recorded with either analogue media, a flip book, motion picture film, video tape, digital media, including formats with animated GIF, Flash animation and digital video. To display animation, a digital camera, computer, or projector are used along with new technologies that are produced.
+
+Animation creation methods include the traditional animation creation method and those involving stop motion animation of two and three-dimensional objects, paper cutouts, puppets and clay figures. Images are displayed in a rapid succession, usually 24, 25, 30, or 60 frames per second.
+
+Early examples of attempts to capture the phenomenon of motion into a still drawing can be found in paleolithic cave paintings, where animals are often depicted with multiple legs in superimposed positions, clearly attempting to convey the perception of motion.
+
+An earthen goblet discovered at the site of the 5,200-year-old Shahr-e Sūkhté (Burnt City) in southeastern Iran, depicts what could possibly be the world's oldest example of animation. The artifact bears five sequential images depicting a Persian Desert Ibex jumping up to eat the leaves of a tree.
+
+Ancient Chinese records contain several mentions of devices that were said to "give an impression of movement" to human or animal figures, these accounts are unclear and may only refer to the actual movement of the figures through space.
+
+In the 19th century, the phenakistoscope (1832), zoetrope (1834) and praxinoscope (1877) were introduced. A thaumatrope (1824) is a simple toy with a small disk with different pictures on each side; a bird in a cage, and is attached to two pieces of strings. The phenakistoscope was invented simultaneously by Belgian Joseph Plateau and Austrian Simon von Stampfer in 1831. The phenakistoscope consists of a disk with a series of images, drawn on radi evenly space around the center of the disk.
+
+John Barnes Linnett patented the first flip book in 1868 as the "kineograph". The common flip book were early animation devices that produced an illusion of movement from a series of sequential drawings, animation did not develop further until the advent of motion picture film and cinematography in the 1890s.
+
+The cinématographe was a projector, printer, and camera in one machine that allowed moving pictures to be shown successfully on a screen which was invented by history's earliest film makers, Auguste and Louis Lumière, in 1894. The first animated projection (screening) was created in France, by Charles-Émile Reynaud, who was a French science teacher. Reynaud created the Praxinoscope in 1877 and the Théâtre Optique in December 1888. On 28 October 1892, he projected the first animation in public, "Pauvre Pierrot", at the Musée Grévin in Paris. This film is also notable as the first known instance of film perforations being used. His films were not photographed, they were drawn directly onto the transparent strip. In 1900, more than 500,000 people had attended these screenings.
+
+The first film that was recorded on standard picture film and included animated sequences was the 1900 "Enchanted Drawing", which was followed by the first entirely animated film - the 1906 "Humorous Phases of Funny Faces" by J. Stuart Blackton, who, because of that, is considered the father of American animation.
+
+In Europe, the French artist, Émile Cohl, created the first animated film using what came to be known as traditional animation creation methods - the 1908 "Fantasmagorie". The film largely consisted of a stick figure moving about and encountering all manner of morphing objects, a wine bottle that transforms into a flower. There were also sections of live action in which the animator's hands would enter the scene. The film was created by drawing each frame on paper and then shooting each frame onto negative film, which gave the picture a blackboard look.
+
+The author of the first puppet-animated film ("The Beautiful Lukanida" (1912)) was the Russian-born (ethnically Polish) director Wladyslaw Starewicz, known as Ladislas Starevich.
+
+More detailed hand-drawn animation, requiring a team of animators drawing each frame manually with detailed backgrounds and characters, were those directed by Winsor McCay, a successful newspaper cartoonist, including the 1911 "Little Nemo", the 1914 "Gertie the Dinosaur", and the 1918 "The Sinking of the Lusitania".
+
+During the 1910s, the production of animated short films, typically referred to as "cartoons", became an industry of its own and cartoon shorts were produced for showing in movie theaters. The most successful producer at the time was John Randolph Bray, who, along with animator Earl Hurd, patented the cel animation process which dominated the animation industry for the rest of the decade.
+
+"El Apóstol" (Spanish: "The Apostle") was a 1917 Argentine animated film utilizing cutout animation, and the world's first animated feature film. Unfortunately, a fire that destroyed producer Federico Valle's film studio incinerated the only known copy of "El Apóstol", and it is now considered a lost film.
+
+In 1958, Hanna-Barbara released "Huckleberry Hound", the first half hour television program to feature only in animation. Terrytoons released "Tom Terrific" that same year. Television significantly decreased public attention to the animated shorts being shown in theaters.
+
+Computer animation has become popular since "Toy Story" (1995), the first feature-length animated film completely made using this technique.
+
+In 2008, the animation market was worth US$68.4 billion. Animation as an art and industry continues to thrive as of the mid-2010s, because well-made animated projects can find audiences across borders and in all four quadrants. Animated feature-length films returned the highest gross margins (around 52%) of all film genres in the 2004–2013 timeframe.
+
+Traditional animation (also called cel animation or hand-drawn animation) was the process used for most animated films of the 20th century. The individual frames of a traditionally animated film are photographs of drawings, first drawn on paper. To create the illusion of movement, each drawing differs slightly from the one before it. The animators' drawings are traced or photocopied onto transparent acetate sheets called cels, which are filled in with paints in assigned colors or tones on the side opposite the line drawings. The completed character cels are photographed one-by-one against a painted background by a rostrum camera onto motion picture film.
+
+The traditional cel animation process became obsolete by the beginning of the 21st century. Today, animators' drawings and the backgrounds are either scanned into or drawn directly into a computer system. Various software programs are used to color the drawings and simulate camera movement and effects. The final animated piece is output to one of several delivery media, including traditional 35 mm film and newer media with digital video. The "look" of traditional cel animation is still preserved, and the character animators' work has remained essentially the same over the past 70 years. Some animation producers have used the term "tradigital" (a play on the words "traditional" and "digital") to describe cel animation which makes extensive use of computer technologies.
+
+Examples of traditionally animated feature films include "Pinocchio" (United States, 1940), "Animal Farm" (United Kingdom, 1954), and "The Illusionist" (British-French, 2010). Traditionally animated films which were produced with the aid of computer technology include "The Lion King" (US, 1994), "The Prince of Egypt" (US, 1998), "Akira" (Japan, 1988), "Spirited Away" (Japan, 2001), "The Triplets of Belleville" (France, 2003), and "The Secret of Kells" (Irish-French-Belgian, 2009).
+
+
+Stop-motion animation is used to describe animation created by physically manipulating real-world objects and photographing them one frame of film at a time to create the illusion of movement. There are many different types of stop-motion animation, usually named after the medium used to create the animation. Computer software is widely available to create this type of animation; however, traditional stop motion animation is usually less expensive and time-consuming to produce than current computer animation.
+
+
+
+Computer animation encompasses a variety of techniques, the unifying factor being that the animation is created digitally on a computer. 2D animation techniques tend to focus on image manipulation while 3D techniques usually build virtual worlds in which characters and objects move and interact. 3D animation can create images that seem real to the viewer.
+
+2D animation figures are created or edited on the computer using 2D bitmap graphics or created and edited using 2D vector graphics. This includes automated computerized versions of traditional animation techniques, interpolated morphing, onion skinning and interpolated rotoscoping.
+
+2D animation has many applications, including analog computer animation, Flash animation and PowerPoint animation. Cinemagraphs are still photographs in the form of an animated GIF file of which part is animated.
+
+Final line advection animation is a technique used in 2d animation, to give artists and animators more influence and control over the final product as everything is done within the same department. Speaking about using this approach in "Paperman", John Kahrs said that "Our animators can change things, actually erase away the CG underlayer if they want, and change the profile of the arm."
+
+3D animation is digitally modeled and manipulated by an animator. The animator usually starts by creating a 3D polygon mesh to manipulate. A mesh typically includes many vertices that are connected by edges and faces, which give the visual appearance of form to a 3D object or 3D environment. Sometimes, the mesh is given an internal digital skeletal structure called an armature that can be used to control the mesh by weighting the vertices. This process is called rigging and can be used in conjunction with keyframes to create movement.
+
+Other techniques can be applied, mathematical functions (e.g., gravity, particle simulations), simulated fur or hair, and effects, fire and water simulations. These techniques fall under the category of 3D dynamics.
+
+
+
+
+The creation of non-trivial animation works (i.e., longer than a few seconds) has developed as a form of filmmaking, with certain unique aspects. One thing live-action and animated feature-length films do have in common is that they are both extremely labor-intensive and have high production costs.
+
+The most important difference is that once a film is in the production phase, the marginal cost of one more shot is higher for animated films than live-action films. It is relatively easy for a director to ask for one more take during principal photography of a live-action film, but every take on an animated film must be manually rendered by animators (although the task of rendering slightly different takes has been made less tedious by modern computer animation). It is pointless for a studio to pay the salaries of dozens of animators to spend weeks creating a visually dazzling five-minute scene, if that scene fails to effectively advance the plot of the film. Thus, animation studios starting with Disney began the practice in the 1930s of maintaining story departments where storyboard artists develop every single scene through storyboards, then handing the film over to the animators only after the production team is satisfied that all the scenes will make sense as a whole. While live-action films are now also storyboarded, they enjoy more latitude to depart from storyboards (i.e., real-time improvisation).
+
+Another problem unique to animation is the necessity of ensuring that the style of an animated film is consistent from start to finish, even as films have grown longer and teams have grown larger. Animators, like all artists, necessarily have their own individual styles, but must subordinate their individuality in a consistent way to whatever style was selected for a particular film.
+
+This problem is usually solved by having a separate group of visual development artists develop an overall look and palette for each film before animation begins. Character designers on the visual development team draw model sheets to show how each character should look like with different facial expressions, posed in different positions, and viewed from different angles. On traditionally animated projects, maquettes were often sculpted to further help the animators see how characters would look from different angles.
+
+Unlike live-action films, animated films were traditionally developed beyond the synopsis stage through the storyboard format; the storyboard artists would then receive credit for writing the film. In the early 1960s, animation studios began hiring professional screenwriters to write screenplays (while also continuing to use story departments) and screenplays had become commonplace for animated films by the late 1980s.
+
+Criticism of animation has become a domineering force in media and cinema since its inception. With its popularity, a large amount of criticism has arisen, especially animated feature-length films. Many concerns of cultural representation, psychological effects on children have been brought up around the animation industry, which has remained rather politically unchanged and stagnant since its inception into mainstream culture.
+
+Certain under-representation of women has been criticized in animation films and the industry.
+
+As with any other form of media, animation too has instituted awards for excellence in the field. The original awards for animation were presented by the Academy of Motion Picture Arts and Sciences for animated shorts from the year 1932, during the 5th Academy Awards function. The first winner of the Academy Award was the short "Flowers and Trees", a production by Walt Disney Productions. The Academy Award for a feature-length animated motion picture was only instituted for the year 2001, and awarded during the 74th Academy Awards in 2002. It was won by the film "Shrek", produced by DreamWorks and Pacific Data Images. Disney/Pixar have produced the most films either to win or be nominated for the award. The list of both awards can be obtained here:
+
+Several other countries have instituted an award for best animated feature film as part of their national film awards: Africa Movie Academy Award for Best Animation (since 2008), BAFTA Award for Best Animated Film (since 2006), César Award for Best Animated Film (since 2011), Golden Rooster Award for Best Animation (since 1981), Goya Award for Best Animated Film (since 1989), Japan Academy Prize for Animation of the Year (since 2007), National Film Award for Best Animated Film (since 2006). Also since 2007, the Asia Pacific Screen Award for Best Animated Feature Film has been awarded at the Asia Pacific Screen Awards. Since 2009, the European Film Awards have awarded the European Film Award for Best Animated Film.
+The Annie Award is another award presented for excellence in the field of animation. Unlike the Academy Awards, the Annie Awards are only received for achievements in the field of animation and not for any other field of technical and artistic endeavor. They were re-organized in 1992 to create a new field for Best Animated feature. The 1990s winners were dominated by Walt Disney, however newer studios, led by Pixar & DreamWorks, have now begun to consistently vie for this award. The list of awardees is as follows: 
+
+
+
+
+
+

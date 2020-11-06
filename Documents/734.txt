@@ -1,0 +1,28 @@
+
+Actinopterygii
+
+Actinopterygii , or the ray-finned fishes, constitute a class or subclass of the bony fishes.
+
+The ray-finned fishes are so called because they possess lepidotrichia or "fin rays", their fins being webs of skin supported by bony or horny spines ("rays"), as opposed to the fleshy, lobed fins that characterize the class Sarcopterygii which also, however, possess lepidotrichia. These actinopterygian fin rays attach directly to the proximal or basal skeletal elements, the radials, which represent the link or connection between these fins and the internal skeleton (e.g., pelvic and pectoral girdles).
+
+Numerically, actinopterygians are the dominant class of vertebrates, comprising nearly 99% of the over 30,000 species of fish. They are ubiquitous throughout freshwater and marine environments from the deep sea to the highest mountain streams. Extant species can range in size from "Paedocypris", at , to the massive ocean sunfish, at , and the long-bodied oarfish, at .
+
+Ray-finned fishes occur in many variant forms. The main features of a typical ray-finned fish are shown in the diagram at the left.
+
+In nearly all ray-finned fish, the sexes are separate, and in most species the females spawn eggs that are fertilized externally, typically with the male inseminating the eggs after they are laid. Development then proceeds with a free-swimming larval stage. However other patterns of ontogeny exist, with one of the commonest being sequential hermaphroditism. In most cases this involves protogyny, fish starting life as females and transitioning to males at some stage, triggered by some internal or external factor. This may be advantageous as females become less prolific as they age while male fecundity increases with age. Protandry, where a fish transitions from male to female, is much less common than protogyny.
+
+Most families use external rather than internal fertilization. Of the oviparous teleosts, most (79%) do not provide parental care. Viviparity, ovoviviparity, or some form of parental care for eggs, whether by the male, the female, or both parents is seen in a significant fraction (21%) of the 422 teleost families; no care is likely the ancestral condition. Viviparity is relatively rare and is found in about 6% of teleost species; male care is far more common than female care. Male territoriality "preadapts" a species for evolving male parental care.
+
+There are a few examples of fish that self-fertilise. The mangrove rivulus is an amphibious, simultaneous hermaphrodite, producing both eggs and spawn and having internal fertilisation. This mode of reproduction may be related to the fish's habit of spending long periods out of water in the mangrove forests it inhabits. Males are occasionally produced at temperatures below and can fertilise eggs that are then spawned by the female. This maintains genetic variability in a species that is otherwise highly inbred.
+
+The earliest known fossil actinopterygiian is "Andreolepis hedei", dating back 420 million years (Late Silurian). Remains have been found in Russia, Sweden, and Estonia.
+
+Actinopterygians are divided into the subclasses Chondrostei and Neopterygii. The Neopterygii, in turn, are divided into the infraclasses Holostei and Teleostei. During the Mesozoic and Cenozoic the teleosts in particular diversified widely, and as a result, 96% of all known fish species are teleosts. The cladogram shows the major groups of actinopterygians and their relationship to the terrestrial vertebrates (tetrapods) that evolved from a related group of fish. Approximate dates are from Near et al., 2012.
+
+The polypterids (bichirs and ropefish) are the sister lineage of all other actinopterygians, The Acipenseriformes (sturgeons and paddlefishes) are the sister lineage of Neopterygii, and Holostei (bowfin and gars) are the sister lineage of teleosts. The Elopomorpha (eels and tarpons) appears to be the most basic teleosts.
+
+The listing below follows Phylogenetic Classification of Bony Fishes with notes when this differs from Nelson, ITIS and FishBase.
+
+
+
+

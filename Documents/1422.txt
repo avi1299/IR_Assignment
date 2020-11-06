@@ -1,0 +1,41 @@
+
+Amide
+
+An amide ( or or ), also known as an acid amide, is a compound with the functional group RE(O)NR′ (R and R′ refer to H or organic groups). Most common are carboxamides (organic amides) ("n" = 1, E = C, "x" = 1), but many other important types of amides are known including phosphoramides ("n" = 2, E = P, "x" = 1 and many related formulas) and sulfonamides (E = S, "x" = 2). The term amide refers both to "classes of compounds" and to the "functional group" (RE(O)NR′) within those compounds.
+
+Amide can "also" refer to the conjugate base of ammonia (the anion HN) or of an organic amine (an anion RN). For discussion of these "anionic amides", see Alkali metal amides.
+
+The remainder of this article is about the carbonyl–nitrogen sense of "amide".
+
+The simplest amides are derivatives of ammonia wherein one hydrogen atom has been replaced by an acyl group. The ensemble is generally represented as RC(O)NH. Closely related and even more numerous are amides derived from primary amines (R′NH) with the formula RC(O)NHR′. Amides are also commonly derived from secondary amines (R′R″NH) with the formula RC(O)NR′R″. Amides are usually regarded as derivatives of carboxylic acids in which the hydroxyl group has been replaced by an amine or ammonia.
+The lone pair of electrons on the nitrogen is delocalized into the carbonyl, thus forming a partial double bond between N and the carbonyl carbon. Consequently, the nitrogen in amides is not pyramidal. It is estimated that acetamide is described by resonance structure A for 62% and by B for 28% (which does not sum to 100% because there are additional resonance forms that are not depicted in the above Figure).
+
+In the usual nomenclature, one adds the term "amide" to the stem of the parent acid's name. For instance, the amide derived from acetic acid is named acetamide (CHCONH). IUPAC recommends ethanamide, but this and related formal names are rarely encountered. When the amide is derived from a primary or secondary amine, the substituents on nitrogen are indicated first in the name. Thus, the amide formed from dimethylamine and acetic acid is "N","N"-dimethylacetamide (CHCONMe, where Me = CH). Usually even this name is simplified to dimethylacetamide. Cyclic amides are called lactams; they are necessarily secondary or tertiary amides. Functional groups consisting of –P(O)NR and –SONR are phosphonamides and sulfonamides, respectively.
+
+Some chemists make a pronunciation distinction between the two, saying for the carbonyl–nitrogen compound and for the anion. Others replace one of these with , while still others pronounce both , making them homonyms.
+
+Compared to amines, amides are very weak bases. While the conjugate acid of an amine has a p"K" of about 9.5, the conjugate acid of an amide has a p"K" around −0.5. Therefore, amides don't have as clearly noticeable acid–base properties in water. This relative lack of basicity is explained by the electron-withdrawing nature of the carbonyl group where the lone pair of electrons on the nitrogen is delocalized by resonance. On the other hand, amides are much stronger bases than carboxylic acids, esters, aldehydes, and ketones (their conjugate acids' p"K"s are between −6 and −10). It is estimated in silico that acetamide is represented by resonance structure A for 62% and by B for 28%. Resonance is largely prevented in the very strained quinuclidone.
+
+Because of the greater electronegativity of oxygen, the carbonyl (C=O) is a stronger dipole than the N–C dipole. The presence of a C=O dipole and, to a lesser extent a N–C dipole, allows amides to act as H-bond acceptors. In primary and secondary amides, the presence of N–H dipoles allows amides to function as H-bond donors as well. Thus amides can participate in hydrogen bonding with water and other protic solvents; the oxygen atom can accept hydrogen bonds from water and the N–H hydrogen atoms can donate H-bonds. As a result of interactions such as these, the water solubility of amides is greater than that of corresponding hydrocarbons.
+
+The proton of a primary or secondary amide does not dissociate readily under normal conditions; its p"K" is usually well above 15. Conversely, under extremely acidic conditions, the carbonyl oxygen can become protonated with a p"K" of roughly −1.
+
+The solubilities of amides and esters are roughly comparable. Typically amides are less soluble than comparable amines and carboxylic acids since these compounds can both donate and accept hydrogen bonds. Tertiary amides, with the important exception of "N","N"-dimethylformamide, exhibit low solubility in water.
+
+The presence of the functional group is generally easily established, at least in small molecules. They are the most common non-basic functional group. They can be distinguished from nitro and cyano groups by their IR spectra. Amides exhibit a moderately intense "ν" band near 1650 cm. By H NMR spectroscopy, CONHR signals occur at low fields. In X-ray crystallography, the C(O)N center together with the three immediately adjacent atoms characteristically define a plane.
+
+Amides are pervasive in nature and technology as structural materials. The amide linkage is easily formed, confers structural rigidity, and resists hydrolysis. Nylons are polyamides, as are the very resilient materials Aramid, Twaron, and Kevlar. Amide linkages constitute a defining molecular feature of proteins, the secondary structure of which is due in part to the hydrogen bonding abilities of amides. Amide linkages in a biochemical context are called peptide bonds when they occur in the main chain of a protein and isopeptide bonds when they occur to a side-chain of the protein. Proteins can have structural roles, such as in hair or spider silk, but also nearly all enzymes are proteins. Low molecular weight amides, such as dimethylformamide (HC(O)N(CH)), are common solvents. Many drugs are amides, including paracetamol, penicillin and LSD. Moreover, plant "N"-alkylamides have a wide range of biological functionalities.
+
+Many methods exist in amide synthesis. On paper, the simplest method for making amides is by coupling a carboxylic acid with an amine. In general this reaction is thermodynamically favorable, however it suffers from a high activation energy, largely due to the amine first deprotonating the carboxylic acid, which reduces its reactivity. As such the direct reaction often requires high temperatures.
+
+Many methods are known for driving the equilibrium to the right. For the most part these reactions involve "activating" the carboxylic acid by first converting it to a better electrophile; such as esters, acid chlorides (Schotten-Baumann reaction) or anhydrides (Lumière–Barbier method). Modern methods in peptide synthesis use coupling agents such as HATU and PyBOP.
+
+The seemingly simple direct reaction between an alcohol and an amine to an amide was not tried until 2007 when a special ruthenium-based catalyst was reported to be effective in a so-called dehydrogenative acylation:
+
+The generation of hydrogen gas compensates for unfavorable thermodynamics. The reaction is believed to proceed by one dehydrogenation of the alcohol to the aldehyde followed by formation of a hemiaminal and the after a second dehydrogenation to the amide. Elimination of water in the hemiaminal to the imine is not observed.
+
+Amides undergo many chemical reactions, although they are less reactive than esters. Amides hydrolyse in hot alkali as well as in strong acidic conditions. Acidic conditions yield the carboxylic acid and the ammonium ion while basic hydrolysis yield the carboxylate ion and ammonia. Amides are also versatile precursors to many other functional groups.Electrophiles attack the carbonyl oxygen. This step often precedes hydrolysis, which is catalyzed by both Bronsted acids and Lewis acids. Enzymes, e.g. peptidases and artificial catalysts, are known to accelerate the hydrolysis reactions. 
+
+
+
+
