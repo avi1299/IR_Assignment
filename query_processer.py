@@ -114,10 +114,10 @@ def find_relevant(query_words, open_web, use_zones):
     threshold = 0.1
     # This is the idf below which which do not want to consider the words. Removes very frequent words from the zone.
     for token in query_words:
-
-        buffer[token] += 1
-        if token in zone_buffer.columns and idf[token] > threshold:
-            zone_buffer[token] += idf[token]
+        if token in buffer.columns:
+            buffer[token] += 1
+            if token in zone_buffer.columns and idf[token] > threshold:
+                zone_buffer[token] += idf[token]
 
     # Vectorising the query doc frequency and calculating weights
     query_vec = (1+np.log10(np.array(buffer.loc[0])))*list(idf.values())
