@@ -53,7 +53,7 @@ def query_relaxation(tokenized_query, mode='hypernym'):
     :return: dictionary containing alternate tokenized queries
     """
     # Threshold idf as decided by heuristic
-    threshold = 1
+    threshold = 0.8
 
     parallel_query_dict = {}
     syn = {}
@@ -72,29 +72,30 @@ def query_relaxation(tokenized_query, mode='hypernym'):
 
     if mode == 'hypernym':
         # Replacing the query term with its hypernyms
-        for i, w in enumerate(hyp):
+        for w in hyp:
             # n is hypernym considered for replacement in the hyp list
             temp = tokenized_query.copy()
-            for term in temp:
+            for i, term in enumerate(temp):
                 # finding the index to make the replacement
-                if term in idf and idf[term] > threshold and w != term:
+                if term is not w and term in idf and idf[term] > threshold:
                     # Making sure the original term and its hypernym are not the same
-                    term = w
+                    temp[i] = w
+                    print(w)
                 # adding the relaxed query to parallel dictionary
-                parallel_query_dict[i] = temp
+                    parallel_query_dict[idx] = temp
             idx += 1
 
     elif mode == 'synonym':
-        for i, w in enumerate(syn):
+        for w in syn:
             # n is hypernym considered for replacement in the hyp list
             temp = tokenized_query.copy()
-            for term in temp:
+            for i, term in enumerate(temp):
                 # finding the index to make the replacement
                 if term in idf and idf[term] > threshold and w != term:
                     # Making sure the original term and its hypernym are not the same
-                    term = w
+                    temp[i] = w
                 # adding the relaxed query to parallel dictionary
-                parallel_query_dict[i] = temp
+                    parallel_query_dict[i] = temp
             idx += 1
 
     return parallel_query_dict
@@ -193,6 +194,9 @@ def search(query, open_web, use_zones, enable_query_relaxation=1):
                 temp_score = find_relevant(parallel_dict[i], open_web=False, use_zones=False)
                 temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
                 parallel_scores = Counter(parallel_scores) + Counter(temp_score)
+                # parallel_score = { id: max(parallel_score[id],temp_score[id]) for id in  parallel_scores.keys()}
+                # include in original in parallel and compare
+                # std wrt original
 
         # Scoring with query relaxation using WordNet
         original_scores = find_relevant(processed_query, open_web=False, use_zones=False)
@@ -204,7 +208,7 @@ def search(query, open_web, use_zones, enable_query_relaxation=1):
             # parallel_scores = dict(sorted(parallel_scores.items(), key=operator.itemgetter(1), reverse=True))
 
             # weight to be given to scores of original query term
-
+            print(parallel_dict)
             num = len(parallel_dict.keys())
             print(num)
             weight = num
@@ -216,7 +220,7 @@ def search(query, open_web, use_zones, enable_query_relaxation=1):
             for key, value in parallel_scores.items():
                 # weighing and combing the scores of relaxed queries
                 # parallel_scores[key] = value*((1-weight)/num)
-                parallel_scores[key] = value*weight
+                parallel_scores[key] = (1/value*original_scores[key])
 
             added_score = Counter(original_scores) + Counter(parallel_scores)
 
@@ -235,8 +239,3 @@ def search(query, open_web, use_zones, enable_query_relaxation=1):
         # Opening the web-pages in a browser for easy checking
         if open_web:
             webbrowser.open('https://en.wikipedia.org/wiki?curid=' + str(k))
-
-
-# print(search('monte carlo', open_web=False, use_zones=False, enable_query_relaxation=1))
-
-
