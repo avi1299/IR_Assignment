@@ -5,7 +5,6 @@ import pandas as pd
 import operator
 import itertools
 import webbrowser
-from nltk.corpus import wordnet as wn
 from WordNetImprovement import WordNetImprovement
 from collections import Counter
 
@@ -71,9 +70,9 @@ def query_relaxation(tokenized_query, mode='hypernym'):
             syn = relaxer.extract_synonyms()[0]
 
     if mode == 'hypernym':
-        # Replacing the query term with its hypernyms
+        # Replacing the query term which crosses threshold with its hypernyms
         for w in hyp:
-            # n is hypernym considered for replacement in the hyp list
+            # creating a copy of the original tokenized query
             temp = tokenized_query.copy()
             for i, term in enumerate(temp):
                 # finding the index to make the replacement
@@ -81,7 +80,7 @@ def query_relaxation(tokenized_query, mode='hypernym'):
                     # Making sure the original term and its hypernym are not the same
                     temp[i] = w
                     print(w)
-                # adding the relaxed query to parallel dictionary
+                    # adding the relaxed query to parallel dictionary
                     parallel_query_dict[idx] = temp
             idx += 1
 
@@ -94,20 +93,21 @@ def query_relaxation(tokenized_query, mode='hypernym'):
                 if term in idf and idf[term] > threshold and w != term:
                     # Making sure the original term and its hypernym are not the same
                     temp[i] = w
-                # adding the relaxed query to parallel dictionary
+                    # adding the relaxed query to parallel dictionary
                     parallel_query_dict[i] = temp
             idx += 1
 
+    '''parallel_query_dict is a dictionary containing list of tokenized query terms after relaxation'''
     return parallel_query_dict
 
 
-def find_relevant(query_words, open_web, use_zones):
+def get_scores(query_words, open_web, use_zones):
     """
     Function to process and retrieve the docs
     :param query_words: tokenized query as a list of strings
     :param open_web: set to True if results are to be opened on browser window
     :param use_zones: set to True to enable Zonal indexing
-    :return: Top 10 relevant docs
+    :return: dictionary of scores corresponding to their document id
     """
     # Resetting buffer and zone_buffer
     buffer.loc[0] = 0
@@ -145,36 +145,26 @@ def find_relevant(query_words, open_web, use_zones):
         for doc_id, sub_vector in zone_vec.items():
             scores[doc_id] += np.sum(np.multiply(zone_query_vec, sub_vector))*max_val*0.75
 
-    # Sorting scores in descending order
-    sorted_scores = dict(sorted(scores.items(), key=operator.itemgetter(1), reverse=True))
-    # Returning the top 10 results
-    return_docs = list(itertools.islice(sorted_scores.items(), 10))
-    '''
-    for k, v in return_docs:
-        print(k, round(v, 3), zone[k])
-        # Opening the web-pages in a browser for easy checking
-        if open_web:
-            webbrowser.open('https://en.wikipedia.org/wiki?curid='+str(k))
-    '''
     return scores
 
 
 def search(query, open_web, use_zones, enable_query_relaxation=1):
     """
-    Searching a free text query to retrieve top 10 docs
+    Searching a free text query to print top 10 doc ids, with their score and title
     :param query: query as a string
     :param open_web: set to True if results are to be opened on browser window
     :param use_zones: set to True to enable Zonal indexing
     :param enable_query_relaxation: set to 1 to enable hypernym query relaxation, 2 for synonym based relaxation
-    :return:
+    :return: None
     """
     # Processing query to remove punctuations and special characters
     processed_query = preprocess_query(query)
 
-    '''parallel_dict: dictionary containing relaxed queries as lists
-    parallel scores: dictionary with list of top 10 doc ids for each relaxed query
+    '''parallel_dict: dictionary containing relaxed queries as list of tokenized query terms
+    parallel scores: dictionary containing combined score of all relaxed queries
     scored_doc_ids: final score of top 10 docs after query relaxation (if applicable)
     '''
+    parallel_dict = {}
     parallel_scores = {}
     added_score = {}
     scored_doc_ids = []
@@ -184,53 +174,48 @@ def search(query, open_web, use_zones, enable_query_relaxation=1):
         if enable_query_relaxation is 1:
             parallel_dict = query_relaxation(processed_query, mode='hypernym')
             for i in range(len(parallel_dict.keys())):
-                temp_score = find_relevant(parallel_dict[i], open_web=False, use_zones=False)
+                # Finding scores corresponding to each relaxed query
+                temp_score = get_scores(parallel_dict[i], open_web=False, use_zones=False)
+                # Sorting the scores
                 temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
+                # updating the temp_score in parallel dict by addition
                 parallel_scores = Counter(parallel_scores) + Counter(temp_score)
 
         elif enable_query_relaxation is 2:
             parallel_dict = query_relaxation(processed_query, mode='synonym')
             for i in range(len(parallel_dict.keys())):
-                temp_score = find_relevant(parallel_dict[i], open_web=False, use_zones=False)
+                temp_score = get_scores(parallel_dict[i], open_web=False, use_zones=False)
                 temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
                 parallel_scores = Counter(parallel_scores) + Counter(temp_score)
-                # parallel_score = { id: max(parallel_score[id],temp_score[id]) for id in  parallel_scores.keys()}
-                # include in original in parallel and compare
-                # std wrt original
 
-        # Scoring with query relaxation using WordNet
-        original_scores = find_relevant(processed_query, open_web=False, use_zones=False)
+        # computing scores for the original query
+        original_scores = get_scores(processed_query, open_web=False, use_zones=False)
 
-        # original_scores = dict(sorted(original_scores.items(), key=operator.itemgetter(1), reverse=True))
         if parallel_scores is None:
+            # if there is no relaxation possible (no hypernyms/synonyms), parallel_scores is empty
             added_score = original_scores
         else:
-            # parallel_scores = dict(sorted(parallel_scores.items(), key=operator.itemgetter(1), reverse=True))
-
-            # weight to be given to scores of original query term
-            print(parallel_dict)
+            # print(parallel_dict)
             num = len(parallel_dict.keys())
-            print(num)
+            # print(num)
+            # weight to be given to scores of original query term
             weight = num
 
-            for key, value in original_scores.items():
-                # original_scores[key] = value*weight
-                original_scores[key] = value
-
             for key, value in parallel_scores.items():
-                # weighing and combing the scores of relaxed queries
-                # parallel_scores[key] = value*((1-weight)/num)
+                # weighing the scores of relaxed queries by heuristic
                 parallel_scores[key] = (1/value*original_scores[key])
 
+            # added_score is the combined score after incorporating query relaxation
             added_score = Counter(original_scores) + Counter(parallel_scores)
 
+        # sorting in decreasing order
         added_score = dict(sorted(added_score.items(), key=operator.itemgetter(1), reverse=True))
-
+        # retrieving top 10 as list
         scored_doc_ids = list(itertools.islice(added_score.items(), 10))
 
     elif enable_query_relaxation is False:
         # Scoring without query relaxation
-        temp_score = find_relevant(processed_query, open_web=False, use_zones=False)
+        temp_score = get_scores(processed_query, open_web=open_web, use_zones=use_zones)
         temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
         scored_doc_ids = list(itertools.islice(temp_score.items(), 10))
 
