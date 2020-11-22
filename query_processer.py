@@ -5,7 +5,9 @@ import pandas as pd
 import operator
 import itertools
 import webbrowser
+from nltk.corpus import wordnet as wn
 from WordNetImprovement import WordNetImprovement
+from collections import Counter
 
 
 # Importing the stored files
@@ -57,6 +59,7 @@ def query_relaxation(tokenized_query, mode='hypernym'):
     syn = {}
     hyp = {}
     temp = []
+    idx = 0
 
     for token in tokenized_query:
         # Iterating through query term list to check if the term is present in the corpus and qualifies the threshold
@@ -69,31 +72,30 @@ def query_relaxation(tokenized_query, mode='hypernym'):
 
     if mode == 'hypernym':
         # Replacing the query term with its hypernyms
-        for n in range(len(hyp)):
+        for i, w in enumerate(hyp):
             # n is hypernym considered for replacement in the hyp list
-            idx = 0
             temp = tokenized_query.copy()
-            for i in range(len(temp)):
+            for term in temp:
                 # finding the index to make the replacement
-                if idf[temp[i]] > threshold:
-                    idx = i
-            # Making sure the original term and its hypernym are not the same
-            if temp[idx] != hyp[n]:
-                temp[idx] = hyp[n]
+                if term in idf and idf[term] > threshold and w != term:
+                    # Making sure the original term and its hypernym are not the same
+                    term = w
                 # adding the relaxed query to parallel dictionary
-                parallel_query_dict[n] = temp
+                parallel_query_dict[i] = temp
+            idx += 1
 
     elif mode == 'synonym':
-        for n in range(len(syn)):
-            # n is the synonym considered for replacement in syn list
+        for i, w in enumerate(syn):
+            # n is hypernym considered for replacement in the hyp list
             temp = tokenized_query.copy()
-            for i in range(len(temp)):
-                if idf[temp[i]] > threshold:
-                    idx = i
-            # Making sure the original term and its synonym are not the same
-            if temp[idx] != syn[n]:
-                temp[idx] = syn[n]
-                parallel_query_dict[n] = temp
+            for term in temp:
+                # finding the index to make the replacement
+                if term in idf and idf[term] > threshold and w != term:
+                    # Making sure the original term and its hypernym are not the same
+                    term = w
+                # adding the relaxed query to parallel dictionary
+                parallel_query_dict[i] = temp
+            idx += 1
 
     return parallel_query_dict
 
@@ -145,13 +147,15 @@ def find_relevant(query_words, open_web, use_zones):
     # Sorting scores in descending order
     sorted_scores = dict(sorted(scores.items(), key=operator.itemgetter(1), reverse=True))
     # Returning the top 10 results
-    return_docs = itertools.islice(sorted_scores.items(), 10)
+    return_docs = list(itertools.islice(sorted_scores.items(), 10))
+    '''
     for k, v in return_docs:
         print(k, round(v, 3), zone[k])
         # Opening the web-pages in a browser for easy checking
         if open_web:
             webbrowser.open('https://en.wikipedia.org/wiki?curid='+str(k))
-    return return_docs
+    '''
+    return scores
 
 
 def search(query, open_web, use_zones, enable_query_relaxation=1):
@@ -171,34 +175,68 @@ def search(query, open_web, use_zones, enable_query_relaxation=1):
     scored_doc_ids: final score of top 10 docs after query relaxation (if applicable)
     '''
     parallel_scores = {}
-    additional_score = []
+    added_score = {}
     scored_doc_ids = []
 
-    if enable_query_relaxation is 1:
-        parallel_dict = query_relaxation(processed_query, mode='hypernym')
-        for i in range(len(parallel_dict.keys())):
-            parallel_scores[i] = find_relevant(parallel_dict[i], open_web=False, use_zones=False)
-
-    elif enable_query_relaxation is 2:
-        parallel_dict = query_relaxation(processed_query, mode='synonym')
-        for i in range(len(parallel_dict.keys())):
-            parallel_scores[i] = find_relevant(parallel_dict[i], open_web=False, use_zones=False)
-
     if enable_query_relaxation:
+
+        if enable_query_relaxation is 1:
+            parallel_dict = query_relaxation(processed_query, mode='hypernym')
+            for i in range(len(parallel_dict.keys())):
+                temp_score = find_relevant(parallel_dict[i], open_web=False, use_zones=False)
+                temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
+                parallel_scores = Counter(parallel_scores) + Counter(temp_score)
+
+        elif enable_query_relaxation is 2:
+            parallel_dict = query_relaxation(processed_query, mode='synonym')
+            for i in range(len(parallel_dict.keys())):
+                temp_score = find_relevant(parallel_dict[i], open_web=False, use_zones=False)
+                temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
+                parallel_scores = Counter(parallel_scores) + Counter(temp_score)
+
         # Scoring with query relaxation using WordNet
         original_scores = find_relevant(processed_query, open_web=False, use_zones=False)
-        # weight to be given to scores of original query term
-        weight = 0.6
-        num = len(parallel_scores.keys())
 
-        for n in range(num):
-            # weighing and combing the scores of relaxed queries
-            additional_score = [((1 - weight) / num) * parallel_scores[n][i] for i in parallel_scores[n]]
-        for n in range(num):
-            # adding scores with weights
-            scored_doc_ids[n] = (weight * original_scores[n]) + additional_score[n]
-    else:
+        # original_scores = dict(sorted(original_scores.items(), key=operator.itemgetter(1), reverse=True))
+        if parallel_scores is None:
+            added_score = original_scores
+        else:
+            # parallel_scores = dict(sorted(parallel_scores.items(), key=operator.itemgetter(1), reverse=True))
+
+            # weight to be given to scores of original query term
+
+            num = len(parallel_dict.keys())
+            print(num)
+            weight = num
+
+            for key, value in original_scores.items():
+                # original_scores[key] = value*weight
+                original_scores[key] = value
+
+            for key, value in parallel_scores.items():
+                # weighing and combing the scores of relaxed queries
+                # parallel_scores[key] = value*((1-weight)/num)
+                parallel_scores[key] = value*weight
+
+            added_score = Counter(original_scores) + Counter(parallel_scores)
+
+        added_score = dict(sorted(added_score.items(), key=operator.itemgetter(1), reverse=True))
+
+        scored_doc_ids = list(itertools.islice(added_score.items(), 10))
+
+    elif enable_query_relaxation is False:
         # Scoring without query relaxation
-        scored_doc_ids = find_relevant(processed_query, open_web=open_web, use_zones=use_zones)
-    return scored_doc_ids
+        temp_score = find_relevant(processed_query, open_web=False, use_zones=False)
+        temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
+        scored_doc_ids = list(itertools.islice(temp_score.items(), 10))
+
+    for k, v in scored_doc_ids:
+        print(k, round(v, 3), zone[k])
+        # Opening the web-pages in a browser for easy checking
+        if open_web:
+            webbrowser.open('https://en.wikipedia.org/wiki?curid=' + str(k))
+
+
+# print(search('monte carlo', open_web=False, use_zones=False, enable_query_relaxation=1))
+
 
