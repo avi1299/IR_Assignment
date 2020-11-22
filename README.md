@@ -34,6 +34,7 @@ $ pip install -r requirements.txt
 		* input 1 as arguement for hypernym based relaxation
 		* input 2 as arguement for synonym based relaxation
 
-All operational deails are commented out or are present as docstrings in the code files. All discussions are present in the assignment report.
+**Note**: Since we are using an multiple data structures to represent the corpus, passing a single location fot the inveted index in `test_queries.py`file won't cut it and passing multiple files is not efficient. Therefore, we have stored and read the required files from their default locations 
 
+All operational deails are commented out or are present as docstrings in the code files. All discussions are present in the assignment report.
 
