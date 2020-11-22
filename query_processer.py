@@ -227,7 +227,7 @@ def search(query, open_web, use_zones, enable_query_relaxation=1):
         # Scoring without query relaxation
         temp_score = find_relevant(processed_query, open_web=False, use_zones=False)
         temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
-        scored_doc_ids = list(itertools.islice(added_score.items(), 10))
+        scored_doc_ids = list(itertools.islice(temp_score.items(), 10))
     for k, v in scored_doc_ids:
         print(k, round(v, 3), zone[k])
         # Opening the web-pages in a browser for easy checking
