@@ -10,13 +10,16 @@ class WordNetImprovement:
         Method to extract hypernyms of a query term
         :return: returns a dictionary with a list of hypernyms under contexts
         """
-        temp = {}
         contexts = {}
         # Iterating though all synsets of a term, each having different contexts
-        for i, element in enumerate(wn.synsets(self.term)):
-            # Extracting hypernyms corresponding to the first and most common context
-            temp = element.hypernyms()[0].lemma_names()
-            contexts[i] = temp
+        if wn.synsets(self.term):
+            for i, element in enumerate(wn.synsets(self.term)):
+                # Extracting hypernyms corresponding to the first and most common context
+                try:
+                    temp = element.hypernyms()[0].lemma_names()
+                except IndexError:
+                    temp = []
+                contexts[i] = temp
         return contexts
 
     def extract_synonyms(self):
@@ -24,11 +27,14 @@ class WordNetImprovement:
         Method to extract synonyms of a query term
         :return: returns a dictionary with a list of synonyms under contexts
         """
-        temp = {}
         contexts = {}
         # Iterating though all synsets of a term, each having different contexts
-        for i, element in enumerate(wn.synsets(self.term)):
-            # Extracting synonyms corresponding to the first and most common context
-            temp = element.lemma_names()
-            contexts[i] = temp
+        if wn.synsets(self.term):
+            for i, element in enumerate(wn.synsets(self.term)):
+                # Extracting synonyms corresponding to the first and most common context
+                try:
+                    temp = element.lemma_names()
+                except IndexError:
+                    temp = []
+                contexts[i] = temp
         return contexts
