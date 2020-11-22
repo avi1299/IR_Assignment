@@ -4,9 +4,4 @@ from query_processer import search
 query = input("Type the query: ")
 search(query, open_web=False, use_zones=False, enable_query_relaxation=False)
 print('\n')
-search(query, open_web=False, use_zones=False, enable_query_relaxation=1)
-
-
-
-
-# search(query, open_web=False, use_zones=True)
+search(query, open_web=False, use_zones=False, enable_query_relaxation=2)
