@@ -7,8 +7,9 @@ import itertools
 import webbrowser
 from WordNetImprovement import WordNetImprovement
 from collections import Counter
-np.seterr(all='ignore')
 
+
+np.seterr(all='ignore')
 # Importing the stored files
 vocab = pd.read_pickle(r'./Storage/words.pkl')
 idf = pd.read_pickle(r'./Storage/inv_doc_freq.pkl')
@@ -171,20 +172,26 @@ def search(query, open_web, use_zones, enable_query_relaxation=1):
 
     if enable_query_relaxation:
 
-        if enable_query_relaxation is 1:
+        if enable_query_relaxation == 1:
             parallel_dict = query_relaxation(processed_query, mode='hypernym')
             for i in range(len(parallel_dict.keys())):
                 # Finding scores corresponding to each relaxed query
-                temp_score = get_scores(parallel_dict[i], open_web=False, use_zones=False)
+                try:
+                    temp_score = get_scores(parallel_dict[i], open_web=False, use_zones=False)
+                except KeyError:
+                    temp_score = {}
                 # Sorting the scores
                 temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
                 # updating the temp_score in parallel dict by addition
                 parallel_scores = Counter(parallel_scores) + Counter(temp_score)
 
-        elif enable_query_relaxation is 2:
+        elif enable_query_relaxation == 2:
             parallel_dict = query_relaxation(processed_query, mode='synonym')
             for i in range(len(parallel_dict.keys())):
-                temp_score = get_scores(parallel_dict[i], open_web=False, use_zones=False)
+                try:
+                    temp_score = get_scores(parallel_dict[i], open_web=False, use_zones=False)
+                except KeyError:
+                    temp_score = {}
                 temp_score = dict(sorted(temp_score.items(), key=operator.itemgetter(1), reverse=True))
                 parallel_scores = Counter(parallel_scores) + Counter(temp_score)
 
