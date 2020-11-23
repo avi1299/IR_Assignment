@@ -7,7 +7,7 @@ import itertools
 import webbrowser
 from WordNetImprovement import WordNetImprovement
 from collections import Counter
-
+np.seterr(all='ignore')
 
 # Importing the stored files
 vocab = pd.read_pickle(r'./Storage/words.pkl')
