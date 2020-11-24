@@ -191,6 +191,6 @@ def corpus_parser(location):
     zone_vec_file.close()
     print("\nDocument vector creation done")
 
-
-location = './Text_corpus/wiki_00'
-corpus_parser(location)
+if __name__ == "__main__":
+    location = './Text_corpus/wiki_00'
+    corpus_parser(location)

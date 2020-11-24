@@ -13,5 +13,5 @@ def test_queries(open_web, use_zones, enable_query_relaxation=1):
     query = input("Type the query: ")
     search(query, open_web=open_web, use_zones=use_zones, enable_query_relaxation=enable_query_relaxation)
 
-
-test_queries(open_web=False, use_zones=False, enable_query_relaxation=False)
+if __name__ == "__main__":
+    test_queries(open_web=False, use_zones=False, enable_query_relaxation=False)
